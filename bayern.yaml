@@ -434,7 +434,7 @@
   name: Moosburg
   pos: "48.466,11.9333"
   resident: 16971
-  satzlink: "http://informationsfreiheit.org/wp-content/uploads/2012/10/Moosburg-Informationsfreiheitssatzung.pdf"
+  satzlink: "https://informationsfreiheit.org/wp-content/uploads/2012/10/Moosburg-Informationsfreiheitssatzung.pdf"
   start: 2012-11-01
 - 
   bez: Mittelfranken
@@ -443,7 +443,7 @@
   name: Fürth
   pos: "49.478333333333, 10.990277777778"
   resident: 118358
-  satzlink: "http://informationsfreiheit.org/wp-content/uploads/2012/10/IF-Satzung-F%C3%BCrth.pdf"
+  satzlink: "https://informationsfreiheit.org/wp-content/uploads/2012/10/IF-Satzung-F%C3%BCrth.pdf"
   start: 2012-11-01
 - 
   bez: Oberbayern
@@ -698,7 +698,7 @@
   name: "Landkreis Regen"
   pos: "49.02,13.1"
   resident: 76265
-  satzlink: "http://informationsfreiheit.org/wp-content/uploads/2016/03/IFS-Regen.pdf"
+  satzlink: "https://informationsfreiheit.org/wp-content/uploads/2016/03/IFS-Regen.pdf"
   start: 2015-08-01
 - 
   bez: Niederbayern
@@ -706,7 +706,7 @@
   name: Straubing
   pos: "48.88, 12.56"
   resident: 46027
-  satzlink: "http://informationsfreiheit.org/wp-content/uploads/2015/11/Straubing10150informationsfreiheitssatzung-8el.pdf"
+  satzlink: "https://informationsfreiheit.org/wp-content/uploads/2015/11/Straubing10150informationsfreiheitssatzung-8el.pdf"
   start: 2013-02-01
 - 
   bez: Mittelfranken
@@ -768,7 +768,7 @@
   name: "Landkreis Garmisch-Partenkirchen"
   pos: "47.60, 11.15"
   resident: 87385
-  satzlink: "http://informationsfreiheit.org/wp-content/uploads/2012/01/IFS_LKR_Garmisch-Partenkirchen2017.pdf"
+  satzlink: "https://informationsfreiheit.org/wp-content/uploads/2012/01/IFS_LKR_Garmisch-Partenkirchen2017.pdf"
   start: 2017-04-08
 - 
   bez: Oberbayern
@@ -777,7 +777,7 @@
   name: Fürstenfeldbruck
   pos: "48.1777, 11.255556"
   resident: 35708
-  satzlink: "http://informationsfreiheit.org/wp-content/uploads/IFS_Fuerstenfeldbruck.pdf"
+  satzlink: "https://informationsfreiheit.org/wp-content/uploads/IFS_Fuerstenfeldbruck.pdf"
   start: 2017-11-01
 - 
   bez: Schwaben
@@ -786,7 +786,7 @@
   name: "Stadt Bobingen"
   pos: "48.270910, 10.833899"
   resident: 16955
-  satzlink: "http://informationsfreiheit.org/wp-content/uploads/IFS_Stadt-Bobingen-2017-10-24.pdf"
+  satzlink: "https://informationsfreiheit.org/wp-content/uploads/IFS_Stadt-Bobingen-2017-10-24.pdf"
   start: 2018-01-01
 - 
   bemerkung: "bis 30.04.2020 befristet"
@@ -796,7 +796,7 @@
   name: Freystadt
   pos: "49.2, 11.316667"
   resident: 8904
-  satzlink: "http://informationsfreiheit.org/wp-content/uploads/IFS_Freystadt.pdf"
+  satzlink: "https://informationsfreiheit.org/wp-content/uploads/IFS_Freystadt.pdf"
   start: 2017-10-01
 - 
   bemerkung: "bis 1.11.2019 befristet"
@@ -816,7 +816,7 @@
   name: "Neumarkt i.d.OPf"
   pos: "49.283333, 11.466667"
   resident: 39573
-  satzlink: "http://informationsfreiheit.org/wp-content/uploads/IFS_Neumarkt.pdf"
+  satzlink: "https://informationsfreiheit.org/wp-content/uploads/IFS_Neumarkt.pdf"
   start: 2018-04-01
 - 
   bemerkung: ~
@@ -826,7 +826,7 @@
   name: Haimhausen
   pos: "48.316667,11.566667"
   resident: 5514
-  satzlink: "http://informationsfreiheit.org/wp-content/uploads/IFS_Haimhausen.pdf"
+  satzlink: "https://informationsfreiheit.org/wp-content/uploads/IFS_Haimhausen.pdf"
   start: 2018-06-01
 - 
   bemerkung: "bis 31.12.2019 befristet"
@@ -836,7 +836,7 @@
   name: "Stadt Velburg"
   pos: "49.23, 11.66"
   resident: 5153
-  satzlink: "http://informationsfreiheit.org/wp-content/uploads/IFS_StadtVelburg.pdf"
+  satzlink: "https://informationsfreiheit.org/wp-content/uploads/IFS_StadtVelburg.pdf"
   start: 2017-10-01
 - 
   bemerkung: "bis 30.04.2020 befristet"
@@ -846,6 +846,6 @@
   name: Sengenthal
   pos: "49.23, 11.4667"
   resident: 3591
-  satzlink: "http://informationsfreiheit.org/wp-content/uploads/IFS_Sengenthal.pdf"
+  satzlink: "https://informationsfreiheit.org/wp-content/uploads/IFS_Sengenthal.pdf"
   start: 2017-12-01
 
