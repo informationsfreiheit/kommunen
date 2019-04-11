@@ -771,16 +771,6 @@
   satzlink: "http://informationsfreiheit.org/wp-content/uploads/2012/01/IFS_LKR_Garmisch-Partenkirchen2017.pdf"
   start: 2017-04-08
 - 
-  art: Ausarbeitung
-  bez: Schwaben
-  href: "http://www.stadt-fuessen.de/ortsrecht.html"
-  init: FWF
-  name: "Stadt Füssen"
-  pos: "47.566667, 10.7"
-  resident: 15265
-  satzlink: ~
-  start: ~
-- 
   bez: Oberbayern
   href: "https://www.fuerstenfeldbruck.de/ffb/web.nsf/id/pa_stadtrecht.html"
   init: "Die Piraten"
