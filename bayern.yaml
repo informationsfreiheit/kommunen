@@ -754,7 +754,7 @@
 - 
   bez: Oberpfalz
   href: "http://www.berg-opf.de"
-  init: BJV
+  init: Bayerischer Journalisten Verband
   name: "Berg bei Neumarkt in der Oberpfalz"
   pos: "49.330615, 11.440263"
   resident: 7556
@@ -792,7 +792,7 @@
   bemerkung: "bis 30.04.2020 befristet"
   bez: Oberpfalz
   href: "https://buergerservice.freystadt.de/hp358/Ortsrecht.htm"
-  init: BJV
+  init: Bayerischer Journalisten Verband
   name: Freystadt
   pos: "49.2, 11.316667"
   resident: 8904
@@ -802,7 +802,7 @@
   bemerkung: "bis 1.11.2019 befristet"
   bez: Oberpfalz
   href: "https://www.muehlhausen-sulz.de/"
-  init: BJV
+  init: Bayerischer Journalisten Verband
   name: Mühlhausen
   pos: "49.16387, 11.44559"
   resident: 4937
@@ -812,7 +812,7 @@
   bemerkung: ~
   bez: Oberpfalz
   href: "https://www.neumarkt.de/"
-  init: BJV
+  init: Bayerischer Journalisten Verband
   name: "Neumarkt i.d.OPf"
   pos: "49.283333, 11.466667"
   resident: 39573
@@ -832,7 +832,7 @@
   bemerkung: "bis 31.12.2019 befristet"
   bez: Oberpfalz
   href: "https://www.Velburg.de/"
-  init: BJV
+  init: Bayerischer Journalisten Verband
   name: "Stadt Velburg"
   pos: "49.23, 11.66"
   resident: 5153
@@ -842,10 +842,9 @@
   bemerkung: "bis 30.04.2020 befristet"
   bez: Oberpfalz
   href: "https://www.sengenthal.de/"
-  init: BJV
+  init: Bayerischer Journalisten Verband
   name: Sengenthal
   pos: "49.23, 11.4667"
   resident: 3591
   satzlink: "https://informationsfreiheit.org/wp-content/uploads/IFS_Sengenthal.pdf"
   start: 2017-12-01
-
