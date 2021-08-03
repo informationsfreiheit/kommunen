@@ -33,7 +33,7 @@
   name: Kitzingen
   pos: "49.736944444444, 10.161111111111"
   resident: 20405
-  satzlink: "http://www.kitzingen.info/fileadmin/files_rathaus_buergerservice/PDF_Ortsrecht/informationsfreiheitssatzung.pdf"
+  satzlink: "https://www.stadt-kitzingen.de/fileadmin/Rathaus_Buergerservice/PDFs_Ortsrecht/Buergerbeteiligung_Information/Satzung_zur_Regelung_des_Zugangs_zu_Informationen_des_eigenen_Wirkungskreises_der_Grossen_Kreisstadt_Kitzingen_Informationsfreiheitssatzung.pdf"
   start: 2009-11-01
 - 
   bez: Oberbayern
@@ -376,7 +376,7 @@
   name: Schweinfurt
   pos: "50.045555555556, 10.231666666667"
   resident: 52098
-  satzlink: "http://www.schweinfurt.de/m_10004_dl"
+  satzlink: "http://www.schweinfurt.de/media/www.schweinfurt.de/org/med_733/10004_informationsfreiheitssatzung_sw_internet.pdf"
   start: "in Kraft"
 - 
   bez: Oberbayern
