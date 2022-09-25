@@ -129,12 +129,12 @@
   start: 2011-03-01
 - 
   bez: Oberbayern
-  href: "http://www.muenchen.de/rathaus/Stadtinfos/Stadtrecht/Informationsfreiheitssatzung.html"
+  href: "https://stadt.muenchen.de/infos/informationsfreiheitssatzung.html"
   init: "B90/Die Grünen, Freie Wähler"
   name: München
   pos: "48.137222222222, 11.575555555556"
   resident: 1388308
-  satzlink: "http://www.muenchen.info/dir/recht/38/38_20150713.pdf"
+  satzlink: "https://stadt.muenchen.de/rathaus/stadtrecht/vorschrift/38.html"
   start: 2011-04-01
 - 
   bez: Oberpfalz
