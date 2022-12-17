@@ -1,870 +1,775 @@
---- 
-- 
-  bez: Oberbayern
-  href: "http://prien.de"
-  init: "Mehr Demokratie für Prien"
-  name: "Prien am Chiemsee"
-  pos: "47.8555, 12.344166"
+- bez: Oberbayern
+  href: http://prien.de
+  init: Mehr Demokratie für Prien
+  name: Prien am Chiemsee
+  pos: 47.8555, 12.344166
   resident: 10075
-  satzlink: "http://www.prien.de/files/Satzungen_und_Verordnungen/informationsfreiheitssatzung.pdf"
+  satzlink: http://www.prien.de/files/Satzungen_und_Verordnungen/informationsfreiheitssatzung.pdf
   start: 2009-01-01
-- 
-  bez: Oberbayern
-  href: "http://www.pullach.de/"
+- bez: Oberbayern
+  href: http://www.pullach.de/
   init: FDP
-  name: "Pullach im Isartal"
-  pos: "48.059, 11.513"
+  name: Pullach im Isartal
+  pos: 48.059, 11.513
   resident: 8832
-  satzlink: "https://www.pullach.de/wp-content/uploads/2021/02/Informationsfreiheitssatzung.pdf"
+  satzlink: https://www.pullach.de/wp-content/uploads/2021/02/Informationsfreiheitssatzung.pdf
   start: 2009-03-01
-- 
-  bez: Oberbayern
-  href: "http://www.grasbrunn.de/"
+- bez: Oberbayern
+  href: http://www.grasbrunn.de/
   init: SPD
   name: Grasbrunn
-  pos: "48.0788, 11.7436"
+  pos: 48.0788, 11.7436
   resident: 6465
-  satzlink: "https://www.grasbrunn.de/Satzung-zur-Regelung-des-Zugangs-zu-Informationen-des-eigenen-Wirkungskreises-der-Gemeinde-Grasbrunn-Informationsfreiheitssatzung-vom-31.05.2010.o228.html"
+  satzlink: https://www.grasbrunn.de/Satzung-zur-Regelung-des-Zugangs-zu-Informationen-des-eigenen-Wirkungskreises-der-Gemeinde-Grasbrunn-Informationsfreiheitssatzung-vom-31.05.2010.o228.html
   start: 2009-06-01
-- 
-  bez: Unterfranken
-  href: "http://www.kitzingen.info/"
+- bez: Unterfranken
+  href: http://www.kitzingen.info/
   init: KIK
   name: Kitzingen
-  pos: "49.736944444444, 10.161111111111"
+  pos: 49.736944444444, 10.161111111111
   resident: 20405
-  satzlink: "https://www.stadt-kitzingen.de/fileadmin/Rathaus_Buergerservice/PDFs_Ortsrecht/Buergerbeteiligung_Information/Satzung_zur_Regelung_des_Zugangs_zu_Informationen_des_eigenen_Wirkungskreises_der_Grossen_Kreisstadt_Kitzingen_Informationsfreiheitssatzung.pdf"
+  satzlink: https://www.stadt-kitzingen.de/fileadmin/Rathaus_Buergerservice/PDFs_Ortsrecht/Buergerbeteiligung_Information/Satzung_zur_Regelung_des_Zugangs_zu_Informationen_des_eigenen_Wirkungskreises_der_Grossen_Kreisstadt_Kitzingen_Informationsfreiheitssatzung.pdf
   start: 2009-11-01
-- 
-  bez: Oberbayern
-  href: "http://www.bad-aibling.de/buergerservice/rathaus.html"
+- bez: Oberbayern
+  href: http://www.bad-aibling.de/buergerservice/rathaus.html
   init: CSU
-  name: "Bad Aibling"
-  pos: "47.866666666667, 12.016666666667"
+  name: Bad Aibling
+  pos: 47.866666666667, 12.016666666667
   resident: 17316
-  satzlink: "http://www.bad-aibling.de/fileadmin/redakteur/Buergerservice/Rathaus/Sachregister/SatzungenundVerordnungen/Informationsfreiheitssatzung.pdf"
+  satzlink: http://www.bad-aibling.de/fileadmin/redakteur/Buergerservice/Rathaus/Sachregister/SatzungenundVerordnungen/Informationsfreiheitssatzung.pdf
   start: 2010-03-01
-- 
-  bez: Unterfranken
-  href: "http://www.kahl-main.de/"
-  init: "B90/Die Grünen (SPD-Bürgermeister)"
-  name: "Kahl am Main"
-  pos: "50.068055555556, 9.0066666666667"
+- bez: Unterfranken
+  href: http://www.kahl-main.de/
+  init: B90/Die Grünen (SPD-Bürgermeister)
+  name: Kahl am Main
+  pos: 50.068055555556, 9.0066666666667
   resident: 7365
-  satzlink: "http://ortsrecht-kahl.otter-software.de/pdf/Gemeinde/Satzungen/Informationsfreiheitssatzung.pdf"
+  satzlink: http://ortsrecht-kahl.otter-software.de/pdf/Gemeinde/Satzungen/Informationsfreiheitssatzung.pdf
   start: 2010-04-01
-- 
-  bez: Oberpfalz
-  href: "http://www.schwandorf.de/"
-  init: "ÖDP / SPD / B90/Die Grünen"
+- bez: Oberpfalz
+  href: http://www.schwandorf.de/
+  init: ÖDP / SPD / B90/Die Grünen
   name: Schwandorf
-  pos: "49.328333333333, 12.11"
+  pos: 49.328333333333, 12.11
   resident: 27802
-  satzlink: "http://www.schwandorf.de/media/custom/1651_645_1.PDF"
+  satzlink: http://www.schwandorf.de/media/custom/1651_645_1.PDF
   start: 2010-04-09
-- 
-  bez: Oberpfalz
-  href: "http://www.sinzing.de/"
+- bez: Oberpfalz
+  href: http://www.sinzing.de/
   init: SPD
   name: Sinzing
-  pos: "48.991111111111, 12.034722222222"
+  pos: 48.991111111111, 12.034722222222
   resident: 6790
-  satzlink: "http://www.sinzing.de/DynDox/B9E53A99-8147-4102-A41D-09F6FDF87095/Satzung_Erlass%20einer%20Informationssatzung_26.02.10.pdf"
+  satzlink: http://www.sinzing.de/DynDox/B9E53A99-8147-4102-A41D-09F6FDF87095/Satzung_Erlass%20einer%20Informationssatzung_26.02.10.pdf
   start: 2010-06-01
-- 
-  bez: Niederbayern
-  href: "http://www.passau.de/"
+- bez: Niederbayern
+  href: http://www.passau.de/
   init: ÖDP
   name: Passau
-  pos: "48.573333333333, 13.456944444444"
+  pos: 48.573333333333, 13.456944444444
   resident: 49038
-  satzlink: "http://www.passau.de/Dox.aspx?docid=%7B2A7A9EB7-F8DD-4152-B89C-2EDBD1397032%7D"
+  satzlink: http://www.passau.de/Dox.aspx?docid=%7B2A7A9EB7-F8DD-4152-B89C-2EDBD1397032%7D
   start: 2010-10-14
-- 
-  bez: Oberbayern
-  href: "http://www.ottobrunn.de/RathausundBuergerservice.aspx"
-  init: "Gem. Antrag von B90/Die Grünen, BVO, FDP, SPD"
+- bez: Oberbayern
+  href: http://www.ottobrunn.de/RathausundBuergerservice.aspx
+  init: Gem. Antrag von B90/Die Grünen, BVO, FDP, SPD
   name: Ottobrunn
-  pos: "48.066666666667, 11.666666666667"
+  pos: 48.066666666667, 11.666666666667
   resident: 20609
-  satzlink: "http://www.ottobrunn.de/Dox.aspx?docid={A62FA4EC-D550-475E-9BAD-FC2A6B502214}"
+  satzlink: http://www.ottobrunn.de/Dox.aspx?docid={A62FA4EC-D550-475E-9BAD-FC2A6B502214}
   start: 2010-10-14
-- 
-  bez: Oberbayern
-  href: "http://www.bad-endorf.de/buergerservice-und-rathaus.html"
-  init: "Bürgerantrag auf der Gemeindevers."
-  name: "Bad Endorf"
-  pos: "47.9, 12.3"
+- bez: Oberbayern
+  href: http://www.bad-endorf.de/buergerservice-und-rathaus.html
+  init: Bürgerantrag auf der Gemeindevers.
+  name: Bad Endorf
+  pos: 47.9, 12.3
   resident: 8039
-  satzlink: "http://www.bad-endorf.de/fileadmin/bad_endorf/pdf/Satzungen_Verordnungen/Informationsfreiheitssatzung_mit_Aenderung_der_Kostensatzung.pdf"
+  satzlink: http://www.bad-endorf.de/fileadmin/bad_endorf/pdf/Satzungen_Verordnungen/Informationsfreiheitssatzung_mit_Aenderung_der_Kostensatzung.pdf
   start: 2011-01-01
-- 
-  bez: Unterfranken
-  href: "http://wuerzburg.de/"
-  init: "ÖDP / Freie Wähler"
+- bez: Unterfranken
+  href: http://wuerzburg.de/
+  init: ÖDP / Freie Wähler
   name: Würzburg
-  pos: "49.794444444444, 9.9294444444444"
+  pos: 49.794444444444, 9.9294444444444
   resident: 124577
-  satzlink: "http://www.wuerzburg.de/media/www.wuerzburg.de/org/med_9025/40097_1.2.4_pdf.pdf"
+  satzlink: http://www.wuerzburg.de/media/www.wuerzburg.de/org/med_9025/40097_1.2.4_pdf.pdf
   start: 2011-01-01
-- 
-  art: ausserkraft
-  bemerkung: "bis 31.12.2014 befristet"
+- art: ausserkraft
+  bemerkung: bis 31.12.2014 befristet
   bez: Niederbayern
-  href: "http://www.landkreis-kelheim.de/"
+  href: http://www.landkreis-kelheim.de/
   init: ÖDP
-  name: "Landkreis Kelheim"
-  pos: "48.88,11.88"
+  name: Landkreis Kelheim
+  pos: 48.88,11.88
   resident: 113996
-  satzlink: "http://www.landkreis-kelheim.de/amtsblatt/2011/krabl201104.pdf"
+  satzlink: http://www.landkreis-kelheim.de/amtsblatt/2011/krabl201104.pdf
   start: 2011-02-15
-- 
-  bez: Oberbayern
-  href: "http://www.ingolstadt.de/"
+- bez: Oberbayern
+  href: http://www.ingolstadt.de/
   init: SPD
   name: Ingolstadt
-  pos: "48.765555555556, 11.424444444444"
+  pos: 48.765555555556, 11.424444444444
   resident: 127886
-  satzlink: "http://www2.ingolstadt.de/media/custom/465_6484_1.PDF?1299832353"
+  satzlink: http://www2.ingolstadt.de/media/custom/465_6484_1.PDF?1299832353
   start: 2011-03-01
-- 
-  bez: Oberbayern
-  href: "https://stadt.muenchen.de/infos/informationsfreiheitssatzung.html"
-  init: "B90/Die Grünen, Freie Wähler"
+- bez: Oberbayern
+  href: https://stadt.muenchen.de/infos/informationsfreiheitssatzung.html
+  init: B90/Die Grünen, Freie Wähler
   name: München
-  pos: "48.137222222222, 11.575555555556"
+  pos: 48.137222222222, 11.575555555556
   resident: 1388308
-  satzlink: "https://stadt.muenchen.de/rathaus/stadtrecht/vorschrift/38.html"
+  satzlink: https://stadt.muenchen.de/rathaus/stadtrecht/vorschrift/38.html
   start: 2011-04-01
-- 
-  bez: Oberpfalz
-  href: "http://regensburg.de/"
+- bez: Oberpfalz
+  href: http://regensburg.de/
   init: SPD
   name: Regensburg
-  pos: "49.017222222222, 12.096944444444"
+  pos: 49.017222222222, 12.096944444444
   resident: 138296
-  satzlink: "https://www.regensburg.de/rathaus/stadtrecht/inhalte-des-stadtrechts/57759/satzung-zur-regelung-des-zugangs-zu-informationen-des-eigenen-wirkungskreises-der-stadt-regensburg-informationsfreiheitssatzung-ifs-vom-21-03-2011.html"
+  satzlink: https://www.regensburg.de/rathaus/stadtrecht/inhalte-des-stadtrechts/57759/satzung-zur-regelung-des-zugangs-zu-informationen-des-eigenen-wirkungskreises-der-stadt-regensburg-informationsfreiheitssatzung-ifs-vom-21-03-2011.html
   start: 2011-05-01
-- 
-  art: ~
-  bemerkung: ~
+- art: null
+  bemerkung: null
   bez: Niederbayern
-  href: "http://www.abensberg.de/"
+  href: http://www.abensberg.de/
   init: SPD
   name: Abensberg
-  pos: "48.816944444444, 11.848611111111"
+  pos: 48.816944444444, 11.848611111111
   resident: 12922
-  satzlink: "http://www.abensberg.de/hauptamt/pdf/informationsfreiheitssatzung---ab-15.06.2015.pdf"
+  satzlink: http://www.abensberg.de/hauptamt/pdf/informationsfreiheitssatzung---ab-15.06.2015.pdf
   start: 2015-06-15
-- 
-  bez: Oberfranken
-  href: "http://wunsiedel.de"
-  init: "Stadt Wunsiedel"
+- bez: Oberfranken
+  href: http://wunsiedel.de
+  init: Stadt Wunsiedel
   name: Wunsiedel
-  pos: "50.038611111111, 12.004722222222"
+  pos: 50.038611111111, 12.004722222222
   resident: 9371
-  satzlink: "http://www.mehr-demokratie.de/fileadmin/i18t.org/pdf/IFS_Wunsiedel.pdf"
+  satzlink: http://www.mehr-demokratie.de/fileadmin/i18t.org/pdf/IFS_Wunsiedel.pdf
   start: 2011-03-26
-- 
-  bemerkung: "1. Ausgabe vom 1.4.2011"
+- bemerkung: 1. Ausgabe vom 1.4.2011
   bez: Oberfranken
-  href: "http://marktredwitz.de/2_Rathaus_Bürgerservice.html"
-  init: "Bürgerforum; Pro Marktredwitz"
+  href: http://marktredwitz.de/2_Rathaus_Bürgerservice.html
+  init: Bürgerforum; Pro Marktredwitz
   name: Marktredwitz
-  pos: "50.003, 12.083"
+  pos: 50.003, 12.083
   resident: 17147
-  satzlink: "http://marktredwitz.de/file/3755_80.pdf"
+  satzlink: http://marktredwitz.de/file/3755_80.pdf
   start: 2013-12-01
-- 
-  bez: Oberbayern
-  href: "http://www.bad-toelz.de/buerger/rathaus/fachbereiche.html"
-  init: "Bürgerantrag auf der Gemeindevers."
-  name: "Bad Tölz"
-  pos: "47.760277777778, 11.556666666667"
+- bez: Oberbayern
+  href: http://www.bad-toelz.de/buerger/rathaus/fachbereiche.html
+  init: Bürgerantrag auf der Gemeindevers.
+  name: Bad Tölz
+  pos: 47.760277777778, 11.556666666667
   resident: 17946
-  satzlink: "http://www.bad-toelz.de/uploads/media/Informationsfreiheitssatzung_Ausfertigung.pdf"
+  satzlink: http://www.bad-toelz.de/uploads/media/Informationsfreiheitssatzung_Ausfertigung.pdf
   start: 2011-07-01
-- 
-  bez: Mittelfranken
-  href: "http://nuernberg.de"
-  init: "SPD, CSU"
+- bez: Mittelfranken
+  href: http://nuernberg.de
+  init: SPD, CSU
   name: Nürnberg
-  pos: "49.452777777778, 11.077777777778"
+  pos: 49.452777777778, 11.077777777778
   resident: 495121
-  satzlink: "https://www.nuernberg.de/imperia/md/stadtrecht/dokumente/1/100/100_351.pdf"
+  satzlink: https://www.nuernberg.de/imperia/md/stadtrecht/dokumente/1/100/100_351.pdf
   start: 2011-09-01
-- 
-  bez: Oberfranken
-  href: "http://www.bayreuth.de/rathaus_buergerservice/rathaus_buergerservice_6.html"
-  init: "B90/Die Grünen, Die Unabhängigen"
+- bez: Oberfranken
+  href: http://www.bayreuth.de/rathaus_buergerservice/rathaus_buergerservice_6.html
+  init: B90/Die Grünen, Die Unabhängigen
   name: Bayreuth
-  pos: "49.948055555556, 11.578333333333"
+  pos: 49.948055555556, 11.578333333333
   resident: 71482
-  satzlink: "https://formular-server.de/BT_FS/findform?shortname=Infofreiheitsatzung&formtecid=2&areashortname=bt_oe"
+  satzlink: https://formular-server.de/BT_FS/findform?shortname=Infofreiheitsatzung&formtecid=2&areashortname=bt_oe
   start: 2011-09-01
-- 
-  bez: Mittelfranken
-  href: "http://www.roethenbach.de/rathaus.html"
-  init: "B90/Die Grünen"
-  name: "Röthenbach a. d. Pegnitz"
-  pos: "49.484722222222, 11.2475"
+- bez: Mittelfranken
+  href: http://www.roethenbach.de/rathaus.html
+  init: B90/Die Grünen
+  name: Röthenbach a. d. Pegnitz
+  pos: 49.484722222222, 11.2475
   resident: 11788
-  satzlink: "http://www.mehr-demokratie.de/fileadmin/i18t.org/pdf/IFS_Roethenbach.pdf"
+  satzlink: http://www.mehr-demokratie.de/fileadmin/i18t.org/pdf/IFS_Roethenbach.pdf
   start: 2011-07-01
-- 
-  bez: Mittelfranken
-  href: "http://www.lauf.de/"
-  init: "B90/Die Grünen"
-  name: "Lauf a. d. Pegnitz"
-  pos: "49.510277777778, 11.277222222222"
+- bez: Mittelfranken
+  href: http://www.lauf.de/
+  init: B90/Die Grünen
+  name: Lauf a. d. Pegnitz
+  pos: 49.510277777778, 11.277222222222
   resident: 25912
-  satzlink: "http://www.lauf.de/db_files/pressemitteilungen/anhang/8993_2011_Informationsfreiheitssatzung.pdf"
+  satzlink: http://www.lauf.de/db_files/pressemitteilungen/anhang/8993_2011_Informationsfreiheitssatzung.pdf
   start: 2011-07-30
-- 
-  bez: Mittelfranken
-  href: "http://www.ansbach.de/"
-  init: "Bürgerinitiative Ansbacher Parteiloser"
+- bez: Mittelfranken
+  href: http://www.ansbach.de/
+  init: Bürgerinitiative Ansbacher Parteiloser
   name: Ansbach
-  pos: "49.300833333333, 10.571666666667"
+  pos: 49.300833333333, 10.571666666667
   resident: 39684
-  satzlink: "http://www.ansbach.de/lc/upmedia/pdf/Informationsfreiheitssatzung_24.10.2011.pdf"
+  satzlink: http://www.ansbach.de/lc/upmedia/pdf/Informationsfreiheitssatzung_24.10.2011.pdf
   start: 2011-10-24
-- 
-  bez: Oberpfalz
-  href: "http://www.weiden.de/"
-  init: "B90/Die Grünen"
+- bez: Oberpfalz
+  href: http://www.weiden.de/
+  init: B90/Die Grünen
   name: Weiden
-  pos: "49.66, 12.15"
+  pos: 49.66, 12.15
   resident: 41684
-  satzlink: "http://www.stadtweiden.info/stadtrecht/S070.pdf"
+  satzlink: http://www.stadtweiden.info/stadtrecht/S070.pdf
   start: 2011-08-17
-- 
-  bez: Oberfranken
-  href: "http://www.stadt.bamberg.de/"
-  init: "Freie Wähler"
+- bez: Oberfranken
+  href: http://www.stadt.bamberg.de/
+  init: Freie Wähler
   name: Bamberg
-  pos: "49.891666666667, 10.891666666667"
+  pos: 49.891666666667, 10.891666666667
   resident: 70863
-  satzlink: "https://www.stadt.bamberg.de/media/custom/1829_4567_1.PDF"
+  satzlink: https://www.stadt.bamberg.de/media/custom/1829_4567_1.PDF
   start: 2011-11-01
-- 
-  bez: Oberbayern
-  href: "http://www.rosenheim.de/"
+- bez: Oberbayern
+  href: http://www.rosenheim.de/
   init: SPD
   name: Rosenheim
-  pos: "47.856111111111, 12.128888888889"
+  pos: 47.856111111111, 12.128888888889
   resident: 59935
-  satzlink: "https://www.rosenheim.de/fileadmin/Dateien/Ortsrecht/020.pdf"
+  satzlink: https://www.rosenheim.de/fileadmin/Dateien/Ortsrecht/020.pdf
   start: 2011-11-03
-- 
-  bez: Mittelfranken
-  href: "http://www.roettenbach-erh.de/"
-  init: "Ein Bürger"
-  name: "Röttenbach bei Erlangen"
-  pos: "49.66, 10.933"
+- bez: Mittelfranken
+  href: http://www.roettenbach-erh.de/
+  init: Ein Bürger
+  name: Röttenbach bei Erlangen
+  pos: 49.66, 10.933
   resident: 4595
-  satzlink: "http://www.mehr-demokratie.de/fileadmin/i18t.org/pdf/IFS_Röttenbach.pdf"
+  satzlink: http://www.mehr-demokratie.de/fileadmin/i18t.org/pdf/IFS_Röttenbach.pdf
   start: 2011-11-04
-- 
-  bez: Schwaben
-  href: "http://www.memmingen.de/"
-  init: "ÖDP, B90/Die Grünen und FDP"
+- bez: Schwaben
+  href: http://www.memmingen.de/
+  init: ÖDP, B90/Die Grünen und FDP
   name: Memmingen
-  pos: "47.987777777778, 10.181111111111"
+  pos: 47.987777777778, 10.181111111111
   resident: 41551
-  satzlink: "http://stadtrecht.memmingen.de/fileadmin/Stadtrecht/SVBl/2011/SVBl-MM_2011-12-02_Nr24_S_133-135.pdf"
+  satzlink: http://stadtrecht.memmingen.de/fileadmin/Stadtrecht/SVBl/2011/SVBl-MM_2011-12-02_Nr24_S_133-135.pdf
   start: 2012-01-01
-- 
-  art: Landkreis
-  bemerkung: "1. Ausgabe von 2012-03-01"
+- art: Landkreis
+  bemerkung: 1. Ausgabe von 2012-03-01
   bez: Oberbayern
-  href: "http://www.lk-starnberg.de/"
-  init: "B90/Die Grünen, ÖDP, SPD, FW, FDP"
-  name: "Landkreis Starnberg"
-  pos: "48.01, 11.28"
+  href: http://www.lk-starnberg.de/
+  init: B90/Die Grünen, ÖDP, SPD, FW, FDP
+  name: Landkreis Starnberg
+  pos: 48.01, 11.28
   resident: 129530
-  satzlink: "http://www.lk-starnberg.de/index.php?NavID=613.2054"
+  satzlink: http://www.lk-starnberg.de/index.php?NavID=613.2054
   start: 2014-03-01
-- 
-  bez: Oberbayern
-  href: "http://www.dachau.de/"
+- bez: Oberbayern
+  href: http://www.dachau.de/
   init: SPD
   name: Dachau
-  pos: "48.260277777778, 11.434166666667"
+  pos: 48.260277777778, 11.434166666667
   resident: 44822
-  satzlink: "http://www.dachau.de/uploads/Informationsfreiheitssatzung.pdf"
+  satzlink: http://www.dachau.de/uploads/Informationsfreiheitssatzung.pdf
   start: 2012-01-01
-- 
-  bemerkung: ~
+- bemerkung: null
   bez: Schwaben
-  href: "http://www.illertissen.de/"
+  href: http://www.illertissen.de/
   init: ÖDP/AB/Grüne
   name: Illertissen
-  pos: "48.222777777778, 10.105277777778"
+  pos: 48.222777777778, 10.105277777778
   resident: 16647
-  satzlink: "http://www.illertissen.de/index.php?id=5419,158"
+  satzlink: http://www.illertissen.de/index.php?id=5419,158
   start: 2012-01-01
-- 
-  art: Landkreis
+- art: Landkreis
   bez: Oberbayern
-  href: "http://www.landratsamt-dachau.de/"
-  init: "B90/Die Grünen"
-  name: "Landkreis Dachau"
-  pos: "48.33, 11.36"
+  href: http://www.landratsamt-dachau.de/
+  init: B90/Die Grünen
+  name: Landkreis Dachau
+  pos: 48.33, 11.36
   resident: 142021
-  satzlink: "http://www.mehr-demokratie.de/fileadmin/i18t.org/pdf/IFS_Landkreis_Dachau.pdf"
+  satzlink: http://www.mehr-demokratie.de/fileadmin/i18t.org/pdf/IFS_Landkreis_Dachau.pdf
   start: 2012-01-15
-- 
-  art: ausserkraft
-  bemerkung: "bis 31.10.2013 befristet"
+- art: ausserkraft
+  bemerkung: bis 31.10.2013 befristet
   bez: Oberfranken
-  href: "http://www.stadt-hof.de/"
-  init: "B90/Die Grünen / SPD"
-  name: "Hof (Saale)"
-  pos: "50.32, 11.91"
+  href: http://www.stadt-hof.de/
+  init: B90/Die Grünen / SPD
+  name: Hof (Saale)
+  pos: 50.32, 11.91
   resident: 44461
-  satzlink: "http://www.stadt-hof.de/hof/media/files/rathaus/ortsrecht/047-1.pdf"
+  satzlink: http://www.stadt-hof.de/hof/media/files/rathaus/ortsrecht/047-1.pdf
   start: 2011-11-01
-- 
-  bez: Schwaben
-  href: "http://www.stadt.noerdlingen.de"
+- bez: Schwaben
+  href: http://www.stadt.noerdlingen.de
   name: Nördlingen
-  pos: "48.850830555556, 10.489575"
+  pos: 48.850830555556, 10.489575
   resident: 19268
-  satzlink: "http://www.stadt.noerdlingen.de/uploads/media/Informationsfreiheitssatzung.pdf"
+  satzlink: http://www.stadt.noerdlingen.de/uploads/media/Informationsfreiheitssatzung.pdf
   start: 2011-05-28
-- 
-  bez: Oberbayern
-  href: "http://www.groebenzell.de"
+- bez: Oberbayern
+  href: http://www.groebenzell.de
   init: SPD
   name: Gröbenzell
-  pos: "48.192777777778, 11.371944444444"
+  pos: 48.192777777778, 11.371944444444
   resident: 19270
-  satzlink: "https://www.groebenzell.de/fileadmin/content/PDF/Ortsrecht/Satzungen/S36_Informationsfreiheitssatzung.PDF"
+  satzlink: https://www.groebenzell.de/fileadmin/content/PDF/Ortsrecht/Satzungen/S36_Informationsfreiheitssatzung.PDF
   start: 2012-04-04
-- 
-  bez: Oberbayern
-  href: "http://www.poing.de/"
+- bez: Oberbayern
+  href: http://www.poing.de/
   init: FDP
   name: Poing
-  pos: "48.170869444444, 11.818486111111"
+  pos: 48.170869444444, 11.818486111111
   resident: 13750
-  satzlink: "http://www.poing.de/fileadmin/content/pdf/Satzungen/Informationsfreiheitssatzung.pdf"
+  satzlink: http://www.poing.de/fileadmin/content/pdf/Satzungen/Informationsfreiheitssatzung.pdf
   start: 2012-04-25
-- 
-  bez: Oberpfalz
-  href: "http://www.amberg.de/"
+- bez: Oberpfalz
+  href: http://www.amberg.de/
   init: SPD
   name: Amberg
-  pos: "49.444444444444, 11.848333333333"
+  pos: 49.444444444444, 11.848333333333
   resident: 41578
-  satzlink: "http://www.amberg.de/fileadmin/Inhalte/Buergerservice/Stadtrecht/1105.pdf"
+  satzlink: http://www.amberg.de/fileadmin/Inhalte/Buergerservice/Stadtrecht/1105.pdf
   start: 2012-06-02
-- 
-  bez: Oberbayern
-  href: "http://www.stadtlaufen.de/"
-  init: "B90/Die Grünen und ÖDP"
+- bez: Oberbayern
+  href: http://www.stadtlaufen.de/
+  init: B90/Die Grünen und ÖDP
   name: Laufen
-  pos: "47.936, 12.9325"
+  pos: 47.936, 12.9325
   resident: 6869
-  satzlink: "https://service.stadtlaufen.de/index.php/ortsrecht.html?file=files/stadtservice/ortsrecht/Informationsfreiheitssatzung.pdf"
+  satzlink: https://service.stadtlaufen.de/index.php/ortsrecht.html?file=files/stadtservice/ortsrecht/Informationsfreiheitssatzung.pdf
   start: 2012-07-01
-- 
-  bez: Unterfranken
-  href: "http://www.schweinfurt.de/"
-  init: "SWL, prosw, Freie, B90/Die Grünen"
+- bez: Unterfranken
+  href: http://www.schweinfurt.de/
+  init: SWL, prosw, Freie, B90/Die Grünen
   name: Schweinfurt
-  pos: "50.045555555556, 10.231666666667"
+  pos: 50.045555555556, 10.231666666667
   resident: 52098
-  satzlink: "http://www.schweinfurt.de/media/www.schweinfurt.de/org/med_733/10004_informationsfreiheitssatzung_sw_internet.pdf"
-  start: "in Kraft"
-- 
-  bez: Oberbayern
-  href: "http://www.gauting.de/"
-  init: "B90/Die Grünen (Ini), CSU, SPD, BIG, FDP/P-Fr, FBG, UBG"
+  satzlink: http://www.schweinfurt.de/media/www.schweinfurt.de/org/med_733/10004_informationsfreiheitssatzung_sw_internet.pdf
+  start: in Kraft
+- bez: Oberbayern
+  href: http://www.gauting.de/
+  init: B90/Die Grünen (Ini), CSU, SPD, BIG, FDP/P-Fr, FBG, UBG
   name: Gauting
-  pos: "48.067777777778, 11.373888888889"
+  pos: 48.067777777778, 11.373888888889
   resident: 19758
-  satzlink: "http://www.gauting.de/fileadmin/gauting-online/dateien/bilder/rathaus/satzung_und_verordnung/20170710_informationsfreiheitssatzung_ausgefertigt.pdf"
+  satzlink: http://www.gauting.de/fileadmin/gauting-online/dateien/bilder/rathaus/satzung_und_verordnung/20170710_informationsfreiheitssatzung_ausgefertigt.pdf
   start: 2012-07-18
-- 
-  art: Landkreis
+- art: Landkreis
   bez: Oberbayern
-  href: "http://www.kreis-freising.de"
-  init: "B90/Die Grünen"
-  name: "Landkreis Freising"
-  pos: "48.45, 11.74"
+  href: http://www.kreis-freising.de
+  init: B90/Die Grünen
+  name: Landkreis Freising
+  pos: 48.45, 11.74
   resident: 166286
-  satzlink: "http://www.kreis-freising.de/fileadmin/docs/Buero_des_Landrats/Amtsblatt_2012/Amtsblatt12_19.pdf"
+  satzlink: http://www.kreis-freising.de/fileadmin/docs/Buero_des_Landrats/Amtsblatt_2012/Amtsblatt12_19.pdf
   start: 2012-08-01
-- 
-  bemerkung: ~
+- bemerkung: null
   bez: Oberbayern
-  href: "http://www.murnau.de/"
-  init: "B90/Die Grünen"
+  href: http://www.murnau.de/
+  init: B90/Die Grünen
   name: Murnau
-  pos: "47.6741, 11.20166"
+  pos: 47.6741, 11.20166
   resident: 11453
-  satzlink: "http://www.murnau.de/download.php?artid=%7B16e1b557-72a5-3679-46d8-2cfbfe6a80be%7D"
+  satzlink: http://www.murnau.de/download.php?artid=%7B16e1b557-72a5-3679-46d8-2cfbfe6a80be%7D
   start: 2012-09-01
-- 
-  bemerkung: ~
+- bemerkung: null
   bez: Oberbayern
-  href: "http://www.eichstaett.de"
+  href: http://www.eichstaett.de
   init: SPD
   name: Eichstätt
-  pos: "48.891944444444, 11.183888888889"
+  pos: 48.891944444444, 11.183888888889
   resident: 13146
-  satzlink: "http://www.eichstaett.de/pdf/ortsrecht-satzungen/informationsfreiheitssatzung_1.pdf"
+  satzlink: http://www.eichstaett.de/pdf/ortsrecht-satzungen/informationsfreiheitssatzung_1.pdf
   start: 2012-09-01
-- 
-  bemerkung: ~
+- bemerkung: null
   bez: Oberbayern
-  href: "http://www.bezirk-oberbayern.de/"
-  init: "DIE LINKE"
-  name: "Bezirk Oberbayern"
+  href: http://www.bezirk-oberbayern.de/
+  init: DIE LINKE
+  name: Bezirk Oberbayern
   pos: none
-  resident: ~
+  resident: null
   satzlink: /wp-content/uploads/2012/09/IFS_Oberbayern..pdf
   start: 2012-10-01
-- 
-  bez: Oberbayern
-  href: "http://www.moosburg.de/"
-  init: "B90/Die Grünen"
+- bez: Oberbayern
+  href: http://www.moosburg.de/
+  init: B90/Die Grünen
   name: Moosburg
-  pos: "48.466,11.9333"
+  pos: 48.466,11.9333
   resident: 16971
-  satzlink: "https://informationsfreiheit.org/wp-content/uploads/2012/10/Moosburg-Informationsfreiheitssatzung.pdf"
+  satzlink: https://informationsfreiheit.org/wp-content/uploads/2012/10/Moosburg-Informationsfreiheitssatzung.pdf
   start: 2012-11-01
-- 
-  bez: Mittelfranken
-  href: "http://www.fuerth.de"
+- bez: Mittelfranken
+  href: http://www.fuerth.de
   init: SPD
   name: Fürth
-  pos: "49.478333333333, 10.990277777778"
+  pos: 49.478333333333, 10.990277777778
   resident: 118358
-  satzlink: "https://informationsfreiheit.org/wp-content/uploads/2012/10/IF-Satzung-F%C3%BCrth.pdf"
+  satzlink: https://informationsfreiheit.org/wp-content/uploads/2012/10/IF-Satzung-F%C3%BCrth.pdf
   start: 2012-11-01
-- 
-  bez: Mittelfranken
-  href: "http://www.altdorf.de"
+- bez: Mittelfranken
+  href: http://www.altdorf.de
   init: CSU
   name: Altdorf
-  pos: "49.3875, 11.35"
+  pos: 49.3875, 11.35
   resident: 15111
-  satzlink: "http://www.altdorf.de/eigene_dateien/rathaus-verwaltung/pdf-satzungen/informationsfreiheitssatzung_vom_06.12.2012.pdf"
+  satzlink: http://www.altdorf.de/eigene_dateien/rathaus-verwaltung/pdf-satzungen/informationsfreiheitssatzung_vom_06.12.2012.pdf
   start: 2012-12-06
-- 
-  bez: Oberbayern
-  href: "http://www.feldkirchen-westerham.de/"
-  init: "Pro Bürger"
+- bez: Oberbayern
+  href: http://www.feldkirchen-westerham.de/
+  init: Pro Bürger
   name: Feldkirchen-Westerham
-  pos: "47.9, 11.85"
+  pos: 47.9, 11.85
   resident: 10387
-  satzlink: "http://www.feldkirchen-westerham.de/index.php?option=com_rubberdoc&view=doc&id=416&format=raw"
+  satzlink: http://www.feldkirchen-westerham.de/index.php?option=com_rubberdoc&view=doc&id=416&format=raw
   start: 2013-01-01
-- 
-  bez: Oberbayern
-  href: "http://www.landsberg.de"
+- bez: Oberbayern
+  href: http://www.landsberg.de
   init: B90/Grünen
-  name: "Landsberg am Lech"
-  pos: "48.049444444444, 10.877777777778"
+  name: Landsberg am Lech
+  pos: 48.049444444444, 10.877777777778
   resident: 27841
-  satzlink: "http://www.landsberg.de/web.nsf/gfx/Informationsfreiheitssatzung170113.pdf/$file/Informationsfreiheitssatzung170113.pdf"
+  satzlink: http://www.landsberg.de/web.nsf/gfx/Informationsfreiheitssatzung170113.pdf/$file/Informationsfreiheitssatzung170113.pdf
   start: 2013-01-18
-- 
-  bez: Niederbayern
-  href: ~
+- bez: Niederbayern
+  href: null
   name: Straubing
-  pos: "48.88, 12.56"
+  pos: 48.88, 12.56
   resident: 46027
-  satzlink: "https://informationsfreiheit.org/wp-content/uploads/2015/11/Straubing10150informationsfreiheitssatzung-8el.pdf"
+  satzlink: https://informationsfreiheit.org/wp-content/uploads/2015/11/Straubing10150informationsfreiheitssatzung-8el.pdf
   start: 2013-02-01
-- 
-  bez: Niederbayern
-  href: "http://www.freyung.de"
+- bez: Niederbayern
+  href: http://www.freyung.de
   init: FDP
   name: Freyung
-  pos: "48.8075, 13.5475"
+  pos: 48.8075, 13.5475
   resident: 6952
-  satzlink: "https://www.freyung.de/de/satzungenundverordnungen/Informationsfreiheitsatzung.pdf"
+  satzlink: https://www.freyung.de/de/satzungenundverordnungen/Informationsfreiheitsatzung.pdf
   start: 2013-03-01
-- 
-  bez: Oberbayern
-  href: "http://www.dorfen.de/"
+- bez: Oberbayern
+  href: http://www.dorfen.de/
   init: GAL
   name: Dorfen
-  pos: "48.266666666667, 12.15"
+  pos: 48.266666666667, 12.15
   resident: 14052
-  satzlink: "http://www.dorfen.de/ortsrecht/116-ortsrecht/satzung-zur-regelung-des-zugangs-zu-informationen-des-eigenen-wirkungskreises-der-stadt-dorfen/download"
+  satzlink: http://www.dorfen.de/ortsrecht/116-ortsrecht/satzung-zur-regelung-des-zugangs-zu-informationen-des-eigenen-wirkungskreises-der-stadt-dorfen/download
   start: 2013-04-01
-- 
-  bez: Oberbayern
-  href: "http://www.starnberg.de"
-  init: "Wählergemenschaft Pro Starnberg"
+- bez: Oberbayern
+  href: http://www.starnberg.de
+  init: Wählergemenschaft Pro Starnberg
   name: Starnberg
-  pos: "47.997222222222, 11.340555555556"
+  pos: 47.997222222222, 11.340555555556
   resident: 22497
-  satzlink: "http://www.starnberg.de/fileadmin/user_upload/starnberg/redakteure/Informationsfreiheitssatzung.pdf"
+  satzlink: http://www.starnberg.de/fileadmin/user_upload/starnberg/redakteure/Informationsfreiheitssatzung.pdf
   start: 2013-05-01
-- 
-  bemerkung: "bis 30.04.2016 befristet"
+- bemerkung: bis 30.04.2016 befristet
   bez: Oberbayern
-  href: "http://www.freising.de"
-  init: "Fraktion Bündnis 90 / Die Grünen"
+  href: http://www.freising.de
+  init: Fraktion Bündnis 90 / Die Grünen
   name: Freising
-  pos: "48.4027, 11.7488"
+  pos: 48.4027, 11.7488
   resident: 45227
-  satzlink: "http://www.freising.de/fileadmin/user_upload/05_Recht/0510_pdf-Files/Teil_1_-_Gemeindeverfassung_-_Allgemeine_Verwaltung/1-01_InformationsfreiheitsS_12._April_2013.pdf"
+  satzlink: http://www.freising.de/fileadmin/user_upload/05_Recht/0510_pdf-Files/Teil_1_-_Gemeindeverfassung_-_Allgemeine_Verwaltung/1-01_InformationsfreiheitsS_12._April_2013.pdf
   start: 2013-05-01
-- 
-  bemerkung: "erneuert 2015-10-27"
+- bemerkung: erneuert 2015-10-27
   bez: Oberbayern
-  href: "http://www.penzberg.de/"
-  init: "Die Piraten"
+  href: http://www.penzberg.de/
+  init: Die Piraten
   name: Penzberg
-  pos: "47.75, 11.366"
+  pos: 47.75, 11.366
   resident: 16092
-  satzlink: "http://www.penzberg.de/fileadmin/user_upload/pdfs/Satzungen_Gebuehren/Informationsfreiheitssatzung_27_10_2015.pdf"
+  satzlink: http://www.penzberg.de/fileadmin/user_upload/pdfs/Satzungen_Gebuehren/Informationsfreiheitssatzung_27_10_2015.pdf
   start: 2013-07-01
-- 
-  bez: Oberbayern
-  href: "http://www.neubiberg.de/"
-  init: "Die Piraten"
+- bez: Oberbayern
+  href: http://www.neubiberg.de/
+  init: Die Piraten
   name: Neubiberg
-  pos: "48.074722222222, 11.676944444444"
+  pos: 48.074722222222, 11.676944444444
   resident: 13427
-  satzlink: "http://www.neubiberg.de/uploads/tx_asdocuments/S-Informationsfreiheitssatzung_12.07.2013.pdf"
+  satzlink: http://www.neubiberg.de/uploads/tx_asdocuments/S-Informationsfreiheitssatzung_12.07.2013.pdf
   start: 2013-07-01
-- 
-  bez: Oberbayern
-  href: "http://www.weilheim.de/"
-  init: "B90/Die Grünen UWV/FDP/Die Piraten"
-  name: "Weilheim i.OB"
-  pos: "47.83, 11.133"
+- bez: Oberbayern
+  href: http://www.weilheim.de/
+  init: B90/Die Grünen UWV/FDP/Die Piraten
+  name: Weilheim i.OB
+  pos: 47.83, 11.133
   resident: 21308
-  satzlink: "http://www.weilheim.de/index.asp?tid=2&detail=true&seid=32&cid=15283&cn=17/2013&caid=603&nid=61"
+  satzlink: http://www.weilheim.de/index.asp?tid=2&detail=true&seid=32&cid=15283&cn=17/2013&caid=603&nid=61
   start: 2013-08-06
-- 
-  bez: Oberbayern
-  href: "http://www.peissenberg.de/rathaus"
-  init: "Die Piraten"
+- bez: Oberbayern
+  href: http://www.peissenberg.de/rathaus
+  init: Die Piraten
   name: Peißenberg
-  pos: "47.799, 11.0652"
+  pos: 47.799, 11.0652
   resident: 12315
-  satzlink: "http://www.peissenberg.de/rathaus/aktuelle-amtsblaetter/Ab3713.pdf/view"
+  satzlink: http://www.peissenberg.de/rathaus/aktuelle-amtsblaetter/Ab3713.pdf/view
   start: 2014-01-01
-- 
-  bez: Oberbayern
-  href: "http://www.garching.de"
-  init: "Bündnis 90 / Die Grünen"
+- bez: Oberbayern
+  href: http://www.garching.de
+  init: Bündnis 90 / Die Grünen
   name: Garching
-  pos: "48.25, 11.65"
+  pos: 48.25, 11.65
   resident: 16219
-  satzlink: "http://www.garching.de/garching_media/2_Rathaus+_+Service/22_Stadtverwaltung/Satzung+zur+Regelung+des+Zugangs+zu+Informationen+des+eigenen+Wirkungskreises.pdf"
+  satzlink: http://www.garching.de/garching_media/2_Rathaus+_+Service/22_Stadtverwaltung/Satzung+zur+Regelung+des+Zugangs+zu+Informationen+des+eigenen+Wirkungskreises.pdf
   start: 2013-11-11
-- 
-  bez: Oberbayern
-  href: "https://www.vg-windach.de/index.php?id=0,72"
+- bez: Oberbayern
+  href: https://www.vg-windach.de/index.php?id=0,72
   name: Eresing
-  pos: "48.087, 11.024"
+  pos: 48.087, 11.024
   resident: 1733
-  satzlink: "https://www.vg-windach.de/export/download.php?id=3362&lang=de&type=download&object=3362"
+  satzlink: https://www.vg-windach.de/export/download.php?id=3362&lang=de&type=download&object=3362
   start: 2014-05-06
-- 
-  bez: Oberbayern
-  href: "http://www.wolfratshausen.de"
-  init: "Grünen, ursprünglich CSU"
+- bez: Oberbayern
+  href: http://www.wolfratshausen.de
+  init: Grünen, ursprünglich CSU
   name: Wolfratshausen
-  pos: "47.914, 11.418"
+  pos: 47.914, 11.418
   resident: 17580
-  satzlink: "http://www.wolfratshausen.de/fileadmin/1._PDF/2_Buerger_Verwaltung/4Informationsfreiheitssatzung/Informationsfreiheitssatzung.pdf"
+  satzlink: http://www.wolfratshausen.de/fileadmin/1._PDF/2_Buerger_Verwaltung/4Informationsfreiheitssatzung/Informationsfreiheitssatzung.pdf
   start: 2014-07-01
-- 
-  bemerkung: "bis 31.7.2016 befristet"
+- bemerkung: bis 31.7.2016 befristet
   bez: Oberbayern
-  href: "http://grafing.de"
-  init: "Bündnis 90 / Die Grünen"
+  href: http://grafing.de
+  init: Bündnis 90 / Die Grünen
   name: Grafing
-  pos: "48.05, 11.966667"
+  pos: 48.05, 11.966667
   resident: 12935
-  satzlink: "http://grafing.de/index.php?id=4669,100044&suche="
+  satzlink: http://grafing.de/index.php?id=4669,100044&suche=
   start: 2014-08-01
-- 
-  bez: Oberbayern
-  href: "http://www.poecking.de"
+- bez: Oberbayern
+  href: http://www.poecking.de
   name: Pöcking
-  pos: "47.966, 11.3"
+  pos: 47.966, 11.3
   resident: 5434
-  satzlink: "http://www.peissenberg.de/fileadmin/user_upload/Satzungen/informationsfreitheitssatzung2013.pdf"
+  satzlink: http://www.peissenberg.de/fileadmin/user_upload/Satzungen/informationsfreitheitssatzung2013.pdf
   start: 2014-08-15
-- 
-  bez: Schwaben
-  href: "http://www.augsburg.de"
-  init: "B90/Die Grünen / SPD / AfD"
+- bez: Schwaben
+  href: http://www.augsburg.de
+  init: B90/Die Grünen / SPD / AfD
   name: Augsburg
-  pos: "48.371667, 10.898333"
+  pos: 48.371667, 10.898333
   resident: 272699
-  satzlink: "http://www.augsburg.de/fileadmin/user_upload/buergerservice_rathaus/rathaus/stadtrecht/pdf/14/1400.pdf"
+  satzlink: http://www.augsburg.de/fileadmin/user_upload/buergerservice_rathaus/rathaus/stadtrecht/pdf/14/1400.pdf
   start: 2014-10-01
-- 
-  bez: Oberbayern
-  href: "http://www.neuried.de"
-  init: "B90/Die Grünen"
+- bez: Oberbayern
+  href: http://www.neuried.de
+  init: B90/Die Grünen
   name: Neuried
-  pos: "48.093, 11.465"
+  pos: 48.093, 11.465
   resident: 8437
-  satzlink: "http://www.neuried.de/export/download.php?id=3961"
+  satzlink: http://www.neuried.de/export/download.php?id=3961
   start: 2014-09-01
-- 
-  bez: Oberbayern
-  href: "http://www.eching.de"
-  init: "Echinger Mitte"
+- bez: Oberbayern
+  href: http://www.eching.de
+  init: Echinger Mitte
   name: Eching
-  pos: "48.3, 11.616"
+  pos: 48.3, 11.616
   resident: 13225
-  satzlink: "http://www.eching.de/export/download.php?id=4758"
+  satzlink: http://www.eching.de/export/download.php?id=4758
   start: 2014-09-01
-- 
-  art: Landkreis
+- art: Landkreis
   bez: Oberbayern
-  href: "http://www.landkreis-ebersberg.de"
-  init: "Bündnis 90 / Die Grünen"
-  name: "Landkreis Ebersberg"
-  pos: "48.083, 11.966"
+  href: http://www.landkreis-ebersberg.de
+  init: Bündnis 90 / Die Grünen
+  name: Landkreis Ebersberg
+  pos: 48.083, 11.966
   resident: 131011
-  satzlink: "http://www.landkreis-ebersberg.de/Dox.aspx?docid=76c3fd3e-a1dc-4568-848a-67a660447224"
+  satzlink: http://www.landkreis-ebersberg.de/Dox.aspx?docid=76c3fd3e-a1dc-4568-848a-67a660447224
   start: 2015-01-01
-- 
-  bemerkung: ~
+- bemerkung: null
   bez: Niederbayern
-  href: "http://bezirk-niederbayern.de"
-  init: ~
-  name: "Bezirk Niederbayern"
+  href: http://bezirk-niederbayern.de
+  init: null
+  name: Bezirk Niederbayern
   pos: none
-  resident: ~
-  satzlink: "http://bezirk-niederbayern.de/red/images_12/pdf/bt_informationsfreiheitssatzung.pdf"
+  resident: null
+  satzlink: http://bezirk-niederbayern.de/red/images_12/pdf/bt_informationsfreiheitssatzung.pdf
   start: 2014-11-08
-- 
-  bemerkung: ~
+- bemerkung: null
   bez: Oberpfalz
-  href: "http://www.burglengenfeld.de/"
+  href: http://www.burglengenfeld.de/
   init: CSU
   name: Burglengenfeld
-  pos: "49.21, 12.05"
+  pos: 49.21, 12.05
   resident: 12433
-  satzlink: "http://www.burglengenfeld.de/fileadmin/user_upload/Informationsfreiheitssatzung.pdf"
+  satzlink: http://www.burglengenfeld.de/fileadmin/user_upload/Informationsfreiheitssatzung.pdf
   start: 2015-01-01
-- 
-  bemerkung: ~
+- bemerkung: null
   bez: Niederbayern
-  href: "http://buerger.bodenmais.de"
+  href: http://buerger.bodenmais.de
   init: SPD
   name: Bodenmais
-  pos: "49.06666, 13.1"
+  pos: 49.06666, 13.1
   resident: 3299
-  satzlink: "http://buerger.bodenmais.de/uploads/media/Informationsfreiheitssatzung.pdf"
+  satzlink: http://buerger.bodenmais.de/uploads/media/Informationsfreiheitssatzung.pdf
   start: 2015-03-03
-- 
-  bez: Oberbayern
-  href: "http://www.gemeindeverwaltung-inzell.de"
+- bez: Oberbayern
+  href: http://www.gemeindeverwaltung-inzell.de
   init: SPD
   name: Inzell
-  pos: "47.7625, 12.749166"
+  pos: 47.7625, 12.749166
   resident: 4527
-  satzlink: "http://www.gemeindeverwaltung-inzell.de/files/informationsfreiheitssatzung.pdf"
+  satzlink: http://www.gemeindeverwaltung-inzell.de/files/informationsfreiheitssatzung.pdf
   start: 2015-04-01
-- 
-  bez: Oberbayern
-  href: "http://www.gemeinde-wessling.de/"
+- bez: Oberbayern
+  href: http://www.gemeinde-wessling.de/
   name: Weßling
-  pos: "48.07805, 11.2525"
+  pos: 48.07805, 11.2525
   resident: 5276
-  satzlink: "http://www.gemeinde-wessling.de/fileadmin/assets/pdfs/Satzungen_-_Verordnungen/2015.06.26_-_Informationsfreiheitssatzung.pdf"
+  satzlink: http://www.gemeinde-wessling.de/fileadmin/assets/pdfs/Satzungen_-_Verordnungen/2015.06.26_-_Informationsfreiheitssatzung.pdf
   start: 2015-06-26
-- 
-  bez: Oberbayern
-  href: "http://www.stadt-bad-reichenhall.de"
-  name: "Bad Reichenhall"
-  pos: "47.731, 12.881"
+- bez: Oberbayern
+  href: http://www.stadt-bad-reichenhall.de
+  name: Bad Reichenhall
+  pos: 47.731, 12.881
   resident: 17137
-  satzlink: "http://www.stadt-bad-reichenhall.de/medien/0-5-informationsfreiheitssatzung.pdf"
+  satzlink: http://www.stadt-bad-reichenhall.de/medien/0-5-informationsfreiheitssatzung.pdf
   start: 2015-11-01
-- 
-  bez: Oberbayern
-  href: "http://www.gemeinde-haar.de"
+- bez: Oberbayern
+  href: http://www.gemeinde-haar.de
   init: FWG
   name: Haar
-  pos: "48.1113, 11.7311"
+  pos: 48.1113, 11.7311
   resident: 19879
-  satzlink: "http://www.gemeinde-haar.de/e104/e2455/e7906/2015-12-08Informationsfreiheitssatzung-Internetfassung-.pdf?preview=preview"
+  satzlink: http://www.gemeinde-haar.de/e104/e2455/e7906/2015-12-08Informationsfreiheitssatzung-Internetfassung-.pdf?preview=preview
   start: 2015-11-19
-- 
-  art: Landkreis
+- art: Landkreis
   bez: Oberpfalz
-  href: "http://www.landkreis-regen.de"
-  name: "Landkreis Regen"
-  pos: "49.02,13.1"
+  href: http://www.landkreis-regen.de
+  name: Landkreis Regen
+  pos: 49.02,13.1
   resident: 76265
-  satzlink: "https://informationsfreiheit.org/wp-content/uploads/2016/03/IFS-Regen.pdf"
+  satzlink: https://informationsfreiheit.org/wp-content/uploads/2016/03/IFS-Regen.pdf
   start: 2015-08-01
--
-  bemerkung: ~
+- bemerkung: null
   bez: Schwaben
-  href: "https://www.weissenhorn.de"
-  init: 
+  href: https://www.weissenhorn.de
+  init: null
   name: Weißenhorn
-  pos: "48.305, 10.160"
+  pos: 48.305, 10.160
   resident: 13442
-  satzlink: "https://www.weissenhorn.de/fileadmin/Dateien/Ortsrecht/Satzung_zur_Regelung_des_Zugangs_zu_Informationen_ueber_Angelegenheiten_des_eigenen_Wirkungskreises.pdf"
+  satzlink: https://www.weissenhorn.de/fileadmin/Dateien/Ortsrecht/Satzung_zur_Regelung_des_Zugangs_zu_Informationen_ueber_Angelegenheiten_des_eigenen_Wirkungskreises.pdf
   start: 2015-11-01
-- 
-  bez: Mittelfranken
-  href: "http://www.diespeck.de/"
+- bez: Mittelfranken
+  href: http://www.diespeck.de/
   name: Diespeck
-  pos: "49.59, 10.63"
+  pos: 49.59, 10.63
   resident: 3585
-  satzlink: ~
+  satzlink: null
   start: 2016-01-01
-- 
-  bez: Oberbayern
-  href: "http://www.gapa.de"
+- bez: Oberbayern
+  href: http://www.gapa.de
   name: Garmisch-Partenkirchen
-  pos: "47.49, 11.10"
+  pos: 47.49, 11.10
   resident: 26319
-  satzlink: "http://buergerservice.gapa.de/buergerservice/satzungen-und-verordnungen/informationsfreiheitssatzung/informationsfreiheitssatzung.pdf"
+  satzlink: http://buergerservice.gapa.de/buergerservice/satzungen-und-verordnungen/informationsfreiheitssatzung/informationsfreiheitssatzung.pdf
   start: 2016-01-01
-- 
-  bez: Schwaben
-  href: "https://www.friedberg.de/"
+- bez: Schwaben
+  href: https://www.friedberg.de/
   name: Friedberg
-  pos: "48.35, 10.9833"
+  pos: 48.35, 10.9833
   resident: 29081
-  satzlink: "https://www.friedberg.de/pics/medien/1_1478243636/Informationsfreiheitssatzung_ab_01.09.2016.pdf"
+  satzlink: https://www.friedberg.de/pics/medien/1_1478243636/Informationsfreiheitssatzung_ab_01.09.2016.pdf
   start: 2016-09-01
-- 
-  art: Ausarbeitung
+- art: Ausarbeitung
   bez: Oberbayern
-  href: "http://www.kirchheim-heimstetten.de/"
-  name: "Kirchheim bei München"
-  pos: "48.176, 11.755"
+  href: http://www.kirchheim-heimstetten.de/
+  name: Kirchheim bei München
+  pos: 48.176, 11.755
   resident: 12769
-  satzlink: ~
-  start: ~
-- 
-  art: Ausarbeitung
+  satzlink: null
+  start: null
+- art: Ausarbeitung
   bez: Schwaben
-  href: "http://www.landkreis-augsburg.de/"
-  init: "B90/Die Grünen"
-  name: "Landkreis Augsburg"
-  pos: "48.35, 10.73"
+  href: http://www.landkreis-augsburg.de/
+  init: B90/Die Grünen
+  name: Landkreis Augsburg
+  pos: 48.35, 10.73
   resident: 245600
-  satzlink: ~
-  start: ~
-- 
-  bez: Oberpfalz
-  href: "http://www.berg-opf.de"
+  satzlink: null
+  start: null
+- bez: Oberpfalz
+  href: http://www.berg-opf.de
   init: Bayerischer Journalisten Verband
-  name: "Berg bei Neumarkt in der Oberpfalz"
-  pos: "49.330615, 11.440263"
+  name: Berg bei Neumarkt in der Oberpfalz
+  pos: 49.330615, 11.440263
   resident: 7556
-  satzlink: "http://www.berg-opf.de/pages/nav_oben/Ortsrecht/Informationsfreiheitssatzung%2001.05.2017.pdf"
+  satzlink: http://www.berg-opf.de/pages/nav_oben/Ortsrecht/Informationsfreiheitssatzung%2001.05.2017.pdf
   start: 2017-05-01
-- 
-  art: Landkreis
+- art: Landkreis
   bez: Oberbayern
-  href: "https://www.lra-gap.de/de/startseite.html"
-  init: "FDP/Werdenfelser Liberale"
-  name: "Landkreis Garmisch-Partenkirchen"
-  pos: "47.60, 11.15"
+  href: https://www.lra-gap.de/de/startseite.html
+  init: FDP/Werdenfelser Liberale
+  name: Landkreis Garmisch-Partenkirchen
+  pos: 47.60, 11.15
   resident: 87385
-  satzlink: "https://informationsfreiheit.org/wp-content/uploads/2012/01/IFS_LKR_Garmisch-Partenkirchen2017.pdf"
+  satzlink: https://informationsfreiheit.org/wp-content/uploads/2012/01/IFS_LKR_Garmisch-Partenkirchen2017.pdf
   start: 2017-04-08
-- 
-  bez: Oberbayern
-  href: "https://www.fuerstenfeldbruck.de/ffb/web.nsf/id/pa_stadtrecht.html"
-  init: "Die Piraten"
+- bez: Oberbayern
+  href: https://www.fuerstenfeldbruck.de/ffb/web.nsf/id/pa_stadtrecht.html
+  init: Die Piraten
   name: Fürstenfeldbruck
-  pos: "48.1777, 11.255556"
+  pos: 48.1777, 11.255556
   resident: 35708
-  satzlink: "https://informationsfreiheit.org/wp-content/uploads/IFS_Fuerstenfeldbruck.pdf"
+  satzlink: https://informationsfreiheit.org/wp-content/uploads/IFS_Fuerstenfeldbruck.pdf
   start: 2017-11-01
-- 
-  bez: Schwaben
-  href: "https://www.stadt-bobingen.de/"
+- bez: Schwaben
+  href: https://www.stadt-bobingen.de/
   init: FBU
-  name: "Stadt Bobingen"
-  pos: "48.270910, 10.833899"
+  name: Stadt Bobingen
+  pos: 48.270910, 10.833899
   resident: 16955
-  satzlink: "https://informationsfreiheit.org/wp-content/uploads/IFS_Stadt-Bobingen-2017-10-24.pdf"
+  satzlink: https://informationsfreiheit.org/wp-content/uploads/IFS_Stadt-Bobingen-2017-10-24.pdf
   start: 2018-01-01
-- 
-  bemerkung: "bis 30.04.2020 befristet"
+- bemerkung: bis 30.04.2020 befristet
   bez: Oberpfalz
-  href: "https://buergerservice.freystadt.de/hp358/Ortsrecht.htm"
+  href: https://buergerservice.freystadt.de/hp358/Ortsrecht.htm
   init: Bayerischer Journalisten Verband
   name: Freystadt
-  pos: "49.2, 11.316667"
+  pos: 49.2, 11.316667
   resident: 8904
-  satzlink: "https://informationsfreiheit.org/wp-content/uploads/IFS_Freystadt.pdf"
+  satzlink: https://informationsfreiheit.org/wp-content/uploads/IFS_Freystadt.pdf
   start: 2017-10-01
-- 
-  bemerkung: "bis 1.11.2019 befristet"
+- bemerkung: bis 1.11.2019 befristet
   bez: Oberpfalz
-  href: "https://www.muehlhausen-sulz.de/"
+  href: https://www.muehlhausen-sulz.de/
   init: Bayerischer Journalisten Verband
   name: Mühlhausen
-  pos: "49.16387, 11.44559"
+  pos: 49.16387, 11.44559
   resident: 4937
-  satzlink: "https://informationsfreiheit.org/wp-content/uploads/IFS_Mühlhausen.pdf"
+  satzlink: https://informationsfreiheit.org/wp-content/uploads/IFS_Mühlhausen.pdf
   start: 2017-12-01
-- 
-  bemerkung: ~
+- bemerkung: null
   bez: Oberpfalz
-  href: "https://www.neumarkt.de/"
+  href: https://www.neumarkt.de/
   init: Bayerischer Journalisten Verband
-  name: "Neumarkt i.d.OPf"
-  pos: "49.283333, 11.466667"
+  name: Neumarkt i.d.OPf
+  pos: 49.283333, 11.466667
   resident: 39573
-  satzlink: "https://informationsfreiheit.org/wp-content/uploads/IFS_Neumarkt.pdf"
+  satzlink: https://informationsfreiheit.org/wp-content/uploads/IFS_Neumarkt.pdf
   start: 2018-04-01
-- 
-  bemerkung: ~
+- bemerkung: null
   bez: Oberbayern
-  href: "https://haimhausen.de"
+  href: https://haimhausen.de
   init: SPD
   name: Haimhausen
-  pos: "48.316667,11.566667"
+  pos: 48.316667,11.566667
   resident: 5514
-  satzlink: "https://informationsfreiheit.org/wp-content/uploads/IFS_Haimhausen.pdf"
+  satzlink: https://informationsfreiheit.org/wp-content/uploads/IFS_Haimhausen.pdf
   start: 2018-06-01
-- 
-  bemerkung: "bis 31.12.2019 befristet"
+- bemerkung: bis 31.12.2019 befristet
   bez: Oberpfalz
-  href: "https://www.Velburg.de/"
+  href: https://www.Velburg.de/
   init: Bayerischer Journalisten Verband
-  name: "Stadt Velburg"
-  pos: "49.23, 11.66"
+  name: Stadt Velburg
+  pos: 49.23, 11.66
   resident: 5153
-  satzlink: "https://informationsfreiheit.org/wp-content/uploads/IFS_StadtVelburg.pdf"
+  satzlink: https://informationsfreiheit.org/wp-content/uploads/IFS_StadtVelburg.pdf
   start: 2017-10-01
-- 
-  bemerkung: "bis 30.04.2020 befristet"
+- bemerkung: bis 30.04.2020 befristet
   bez: Oberpfalz
-  href: "https://www.sengenthal.de/"
+  href: https://www.sengenthal.de/
   init: Bayerischer Journalisten Verband
   name: Sengenthal
-  pos: "49.23, 11.4667"
+  pos: 49.23, 11.4667
   resident: 3591
-  satzlink: "https://informationsfreiheit.org/wp-content/uploads/IFS_Sengenthal.pdf"
+  satzlink: https://informationsfreiheit.org/wp-content/uploads/IFS_Sengenthal.pdf
   start: 2017-12-01
-- 
-  bemerkung: 
+- bemerkung: null
   bez: Mittelfranken
-  href: "https://schwarzenbruck.de"
+  href: https://schwarzenbruck.de
   init: CSU
   name: Schwarzenbruck
-  pos: "49.358, 11.2452"
-  resident: 8451 
-  satzlink: 
-  start: 
+  pos: 49.358, 11.2452
+  resident: 8451
+  satzlink: null
+  start: null
