@@ -678,12 +678,12 @@
   satzlink: null
   start: null
 - bez: Oberpfalz
-  href: http://www.berg-opf.de
+  href: https://www.berg-opf.de
   init: Bayerischer Journalisten Verband
   name: Berg bei Neumarkt in der Oberpfalz
   pos: 49.330615, 11.440263
   resident: 7556
-  satzlink: http://www.berg-opf.de/pages/nav_oben/Ortsrecht/Informationsfreiheitssatzung%2001.05.2017.pdf
+  satzlink: https://www.berg-opf.de/assets/Ortsrecht-und-Satzungen/Informationsfreiheitssatzung-01.05.2017.pdf
   start: 2017-05-01
 - art: Landkreis
   bez: Oberbayern
