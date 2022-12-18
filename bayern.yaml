@@ -1,6 +1,6 @@
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6818/rathaus-prien-am-chiemsee/
-  href: http://prien.de
+  href: https://www.prien.de/
   init: Mehr Demokratie für Prien
   name: Prien am Chiemsee
   pos: 47.8555, 12.344166
@@ -9,7 +9,7 @@
   start: 2009-01-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6817/stadtverwaltung-pullach/
-  href: http://www.pullach.de/
+  href: https://www.pullach.de/
   init: FDP
   name: Pullach im Isartal
   pos: 48.059, 11.513
@@ -18,7 +18,7 @@
   start: 2009-03-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6816/stadtverwaltung-grasbrunn/
-  href: http://www.grasbrunn.de/
+  href: https://www.grasbrunn.de/
   init: SPD
   name: Grasbrunn
   pos: 48.0788, 11.7436
@@ -27,7 +27,7 @@
   start: 2009-06-01
 - bez: Unterfranken
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6815/stadtverwaltung-kitzingen/
-  href: http://www.kitzingen.info/
+  href: https://www.stadt-kitzingen.de/
   init: KIK
   name: Kitzingen
   pos: 49.736944444444, 10.161111111111
@@ -45,7 +45,7 @@
   start: 2010-03-01
 - bez: Unterfranken
   fragdenstaat_url: https://fragdenstaat.de/behoerde/20584/gemeinde-kahl-amain-landkreis-aschaffenburg-/
-  href: http://www.kahl-main.de/
+  href: https://www.kahl-main.de/
   init: B90/Die Grünen (SPD-Bürgermeister)
   name: Kahl am Main
   pos: 50.068055555556, 9.0066666666667
@@ -54,7 +54,7 @@
   start: 2010-04-01
 - bez: Oberpfalz
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6813/stadtverwaltung-schwandorf/
-  href: http://www.schwandorf.de/
+  href: https://www.schwandorf.de/
   init: ÖDP / SPD / B90/Die Grünen
   name: Schwandorf
   pos: 49.328333333333, 12.11
@@ -63,7 +63,7 @@
   start: 2010-04-09
 - bez: Oberpfalz
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6828/gemeindeverwaltung-sinzing/
-  href: http://www.sinzing.de/
+  href: https://www.sinzing.de/
   init: SPD
   name: Sinzing
   pos: 48.991111111111, 12.034722222222
@@ -81,7 +81,7 @@
   start: 2010-10-14
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6827/gemeindeverwaltung-ottobrunn/
-  href: http://www.ottobrunn.de/RathausundBuergerservice.aspx
+  href: https://www.ottobrunn.de
   init: Gem. Antrag von B90/Die Grünen, BVO, FDP, SPD
   name: Ottobrunn
   pos: 48.066666666667, 11.666666666667
@@ -90,7 +90,7 @@
   start: 2010-10-14
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6833/marktverwaltung-bad-endorf/
-  href: http://www.bad-endorf.de/buergerservice-und-rathaus.html
+  href: https://www.bad-endorf.de/buerger-rathaus
   init: Bürgerantrag auf der Gemeindevers.
   name: Bad Endorf
   pos: 47.9, 12.3
@@ -99,7 +99,7 @@
   start: 2011-01-01
 - bez: Unterfranken
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6812/stadtverwaltung-wurzburg/
-  href: http://wuerzburg.de/
+  href: https://www.wuerzburg.de/
   init: ÖDP / Freie Wähler
   name: Würzburg
   pos: 49.794444444444, 9.9294444444444
@@ -110,7 +110,7 @@
   bemerkung: bis 31.12.2014 befristet
   bez: Niederbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/15500/landratsamt-kelheim/
-  href: http://www.landkreis-kelheim.de/
+  href: https://www.landkreis-kelheim.de/
   init: ÖDP
   name: Landkreis Kelheim
   pos: 48.88,11.88
@@ -119,7 +119,7 @@
   start: 2011-02-15
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6811/stadtverwaltung-ingolstadt/
-  href: http://www.ingolstadt.de/
+  href: https://www.ingolstadt.de/
   init: SPD
   name: Ingolstadt
   pos: 48.765555555556, 11.424444444444
@@ -127,8 +127,8 @@
   satzlink: http://www2.ingolstadt.de/media/custom/465_6484_1.PDF?1299832353
   start: 2011-03-01
 - bez: Oberbayern
-  href: https://stadt.muenchen.de/infos/informationsfreiheitssatzung.html
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6810/stadtverwaltung-munchen/
+  href: https://stadt.muenchen.de/infos/informationsfreiheitssatzung.html
   init: B90/Die Grünen, Freie Wähler
   name: München
   pos: 48.137222222222, 11.575555555556
@@ -137,7 +137,7 @@
   start: 2011-04-01
 - bez: Oberpfalz
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6809/stadtverwaltung-regensburg/
-  href: http://regensburg.de/
+  href: https://www.regensburg.de/
   init: SPD
   name: Regensburg
   pos: 49.017222222222, 12.096944444444
@@ -148,7 +148,7 @@
   bemerkung: null
   bez: Niederbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/20464/stadt-abensberg-landkreis-kelheim-/
-  href: http://www.abensberg.de/
+  href: https://www.abensberg.de/
   init: SPD
   name: Abensberg
   pos: 48.816944444444, 11.848611111111
@@ -157,7 +157,7 @@
   start: 2015-06-15
 - bez: Oberfranken
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6808/stadtverwaltung-wunsiedel/
-  href: http://wunsiedel.de
+  href: https://www.wunsiedel.de/
   init: Stadt Wunsiedel
   name: Wunsiedel
   pos: 50.038611111111, 12.004722222222
@@ -167,7 +167,7 @@
 - bemerkung: 1. Ausgabe vom 1.4.2011
   bez: Oberfranken
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6807/stadtverwaltung-marktredwitz/
-  href: http://marktredwitz.de/2_Rathaus_Bürgerservice.html
+  href: https://www.marktredwitz.de/im-rathaus/stadtverwaltung
   init: Bürgerforum; Pro Marktredwitz
   name: Marktredwitz
   pos: 50.003, 12.083
@@ -176,7 +176,7 @@
   start: 2013-12-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/20491/stadt-bad-tolz-landkreis-bad-tolz-wolfratshausen-/
-  href: http://www.bad-toelz.de/buerger/rathaus/fachbereiche.html
+  href: https://stadt.bad-toelz.de/
   init: Bürgerantrag auf der Gemeindevers.
   name: Bad Tölz
   pos: 47.760277777778, 11.556666666667
@@ -185,7 +185,7 @@
   start: 2011-07-01
 - bez: Mittelfranken
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6805/stadtverwaltung-nurnberg/
-  href: http://nuernberg.de
+  href: https://www.nuernberg.de/
   init: SPD, CSU
   name: Nürnberg
   pos: 49.452777777778, 11.077777777778
@@ -194,7 +194,7 @@
   start: 2011-09-01
 - bez: Oberfranken
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6804/stadtverwaltung-bayreuth/
-  href: http://www.bayreuth.de/rathaus_buergerservice/rathaus_buergerservice_6.html
+  href: https://www.bayreuth.de/rathaus-buergerservice/uebersicht/
   init: B90/Die Grünen, Die Unabhängigen
   name: Bayreuth
   pos: 49.948055555556, 11.578333333333
@@ -203,7 +203,7 @@
   start: 2011-09-01
 - bez: Mittelfranken
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6803/stadtverwaltung-rothenbach-d-pegnitz/
-  href: http://www.roethenbach.de/rathaus.html
+  href: https://www.roethenbach.de/rathaus.html
   init: B90/Die Grünen
   name: Röthenbach a. d. Pegnitz
   pos: 49.484722222222, 11.2475
@@ -212,7 +212,7 @@
   start: 2011-07-01
 - bez: Mittelfranken
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6802/stadtverwaltung-lauf-dpegnitz/
-  href: http://www.lauf.de/
+  href: https://www.lauf.de/
   init: B90/Die Grünen
   name: Lauf a. d. Pegnitz
   pos: 49.510277777778, 11.277222222222
@@ -221,7 +221,7 @@
   start: 2011-07-30
 - bez: Mittelfranken
   fragdenstaat_url: https://fragdenstaat.de/behoerde/15463/stadt-ansbach/
-  href: http://www.ansbach.de/
+  href: https://www.ansbach.de/
   init: Bürgerinitiative Ansbacher Parteiloser
   name: Ansbach
   pos: 49.300833333333, 10.571666666667
@@ -230,7 +230,7 @@
   start: 2011-10-24
 - bez: Oberpfalz
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6800/stadtverwaltung-weiden-idopf/
-  href: http://www.weiden.de/
+  href: https://www.weiden.de/
   init: B90/Die Grünen
   name: Weiden
   pos: 49.66, 12.15
@@ -239,7 +239,7 @@
   start: 2011-08-17
 - bez: Oberfranken
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6799/stadtverwaltung-bamberg/
-  href: http://www.stadt.bamberg.de/
+  href: https://www.stadt.bamberg.de/
   init: Freie Wähler
   name: Bamberg
   pos: 49.891666666667, 10.891666666667
@@ -248,7 +248,7 @@
   start: 2011-11-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6798/stadtverwaltung-rosenheim/
-  href: http://www.rosenheim.de/
+  href: https://www.rosenheim.de/
   init: SPD
   name: Rosenheim
   pos: 47.856111111111, 12.128888888889
@@ -257,7 +257,7 @@
   start: 2011-11-03
 - bez: Mittelfranken
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6826/gemeindeverwaltung-rottenbach/
-  href: http://www.roettenbach-erh.de/
+  href: https://www.roettenbach-erh.de/
   init: Ein Bürger
   name: Röttenbach bei Erlangen
   pos: 49.66, 10.933
@@ -266,7 +266,7 @@
   start: 2011-11-04
 - bez: Schwaben
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6797/stadtverwaltung-memmingen/
-  href: http://www.memmingen.de/
+  href: https://www.memmingen.de/
   init: ÖDP, B90/Die Grünen und FDP
   name: Memmingen
   pos: 47.987777777778, 10.181111111111
@@ -277,7 +277,7 @@
   bemerkung: 1. Ausgabe von 2012-03-01
   bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6832/landkreisverwaltung-starnberg/
-  href: http://www.lk-starnberg.de/
+  href: https://www.lk-starnberg.de/
   init: B90/Die Grünen, ÖDP, SPD, FW, FDP
   name: Landkreis Starnberg
   pos: 48.01, 11.28
@@ -286,7 +286,7 @@
   start: 2014-03-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/20508/stadt-dachau-landkreis-dachau-/
-  href: http://www.dachau.de/
+  href: https://www.dachau.de/
   init: SPD
   name: Dachau
   pos: 48.260277777778, 11.434166666667
@@ -296,7 +296,7 @@
 - bemerkung: null
   bez: Schwaben
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6795/stadtverwaltung-illertissen/
-  href: http://www.illertissen.de/
+  href: https://www.illertissen.de/startseite
   init: ÖDP/AB/Grüne
   name: Illertissen
   pos: 48.222777777778, 10.105277777778
@@ -306,7 +306,7 @@
 - art: Landkreis
   bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/15478/landratsamt-dachau/
-  href: http://www.landratsamt-dachau.de/
+  href: https://www.landratsamt-dachau.de/
   init: B90/Die Grünen
   name: Landkreis Dachau
   pos: 48.33, 11.36
@@ -317,7 +317,7 @@
   bemerkung: bis 31.10.2013 befristet
   bez: Oberfranken
   fragdenstaat_url: https://fragdenstaat.de/behoerde/15497/stadt-hof/
-  href: http://www.stadt-hof.de/
+  href: https://www.hof.de/
   init: B90/Die Grünen / SPD
   name: Hof (Saale)
   pos: 50.32, 11.91
@@ -326,7 +326,7 @@
   start: 2011-11-01
 - bez: Schwaben
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6794/stadtverwaltung-nordlingen/
-  href: http://www.stadt.noerdlingen.de
+  href: https://www.noerdlingen.de/
   name: Nördlingen
   pos: 48.850830555556, 10.489575
   resident: 19268
@@ -334,7 +334,7 @@
   start: 2011-05-28
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6793/stadtverwaltung-grobenzell/
-  href: http://www.groebenzell.de
+  href: https://www.groebenzell.de/
   init: SPD
   name: Gröbenzell
   pos: 48.192777777778, 11.371944444444
@@ -343,7 +343,7 @@
   start: 2012-04-04
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6825/gemeindeverwaltung-poing/
-  href: http://www.poing.de/
+  href: https://www.poing.de/startseite
   init: FDP
   name: Poing
   pos: 48.170869444444, 11.818486111111
@@ -352,7 +352,7 @@
   start: 2012-04-25
 - bez: Oberpfalz
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6792/stadtverwaltung-amberg/
-  href: http://www.amberg.de/
+  href: https://www.amberg.de/
   init: SPD
   name: Amberg
   pos: 49.444444444444, 11.848333333333
@@ -361,7 +361,7 @@
   start: 2012-06-02
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6791/stadtverwaltung-laufen/
-  href: http://www.stadtlaufen.de/
+  href: https://stadtlaufen.de/
   init: B90/Die Grünen und ÖDP
   name: Laufen
   pos: 47.936, 12.9325
@@ -370,7 +370,7 @@
   start: 2012-07-01
 - bez: Unterfranken
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6790/stadtverwaltung-schweinfurt/
-  href: http://www.schweinfurt.de/
+  href: https://www.schweinfurt.de/
   init: SWL, prosw, Freie, B90/Die Grünen
   name: Schweinfurt
   pos: 50.045555555556, 10.231666666667
@@ -379,7 +379,7 @@
   start: in Kraft
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6824/gemeindeverwaltung-gauting/
-  href: http://www.gauting.de/
+  href: https://www.gauting.de/
   init: B90/Die Grünen (Ini), CSU, SPD, BIG, FDP/P-Fr, FBG, UBG
   name: Gauting
   pos: 48.067777777778, 11.373888888889
@@ -389,7 +389,7 @@
 - art: Landkreis
   bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6831/landkreisverwaltung-freising/
-  href: http://www.kreis-freising.de
+  href: https://www.kreis-freising.de/
   init: B90/Die Grünen
   name: Landkreis Freising
   pos: 48.45, 11.74
@@ -399,7 +399,7 @@
 - bemerkung: null
   bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6834/marktverwaltung-murnau-am-staffelsee/
-  href: http://www.murnau.de/
+  href: https://www.murnau.de/
   init: B90/Die Grünen
   name: Murnau
   pos: 47.6741, 11.20166
@@ -409,7 +409,7 @@
 - bemerkung: null
   bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/7048/stadtverwaltung-eichstatt/
-  href: http://www.eichstaett.de
+  href: https://www.eichstaett.de/
   init: SPD
   name: Eichstätt
   pos: 48.891944444444, 11.183888888889
@@ -419,7 +419,7 @@
 - bemerkung: null
   bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6835/bezirksverwaltung-oberbayern/
-  href: http://www.bezirk-oberbayern.de/
+  href: https://www.bezirk-oberbayern.de/
   init: DIE LINKE
   name: Bezirk Oberbayern
   pos: none
@@ -428,7 +428,7 @@
   start: 2012-10-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6789/stadtverwaltung-moosburg-d-isar/
-  href: http://www.moosburg.de/
+  href: https://www.moosburg.de/startseite
   init: B90/Die Grünen
   name: Moosburg
   pos: 48.466,11.9333
@@ -437,7 +437,7 @@
   start: 2012-11-01
 - bez: Mittelfranken
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6788/stadtverwaltung-furth/
-  href: http://www.fuerth.de
+  href: https://www.fuerth.de/
   init: SPD
   name: Fürth
   pos: 49.478333333333, 10.990277777778
@@ -446,7 +446,7 @@
   start: 2012-11-01
 - bez: Mittelfranken
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6780/stadtverwaltung-altdorf-b-nurnberg/
-  href: http://www.altdorf.de
+  href: http://www.altdorf.de/
   init: CSU
   name: Altdorf
   pos: 49.3875, 11.35
@@ -455,7 +455,7 @@
   start: 2012-12-06
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/11602/gemeinde-feldkirchen-westerham-landkreis-rosenheim-/
-  href: http://www.feldkirchen-westerham.de/
+  href: https://feldkirchen-westerham.de/
   init: Pro Bürger
   name: Feldkirchen-Westerham
   pos: 47.9, 11.85
@@ -464,7 +464,7 @@
   start: 2013-01-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6787/stadtverwaltung-landsberg-am-lech/
-  href: http://www.landsberg.de
+  href: https://www.landsberg.de/
   init: B90/Grünen
   name: Landsberg am Lech
   pos: 48.049444444444, 10.877777777778
@@ -473,7 +473,7 @@
   start: 2013-01-18
 - bez: Niederbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/20942/stadt-straubing/
-  href: null
+  href: https://www.straubing.de/
   name: Straubing
   pos: 48.88, 12.56
   resident: 46027
@@ -481,7 +481,7 @@
   start: 2013-02-01
 - bez: Niederbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6786/stadtverwaltung-freyung/
-  href: http://www.freyung.de
+  href: https://www.freyung.de/
   init: FDP
   name: Freyung
   pos: 48.8075, 13.5475
@@ -490,7 +490,7 @@
   start: 2013-03-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6785/stadtverwaltung-dorfen/
-  href: http://www.dorfen.de/
+  href: https://www.dorfen.de/
   init: GAL
   name: Dorfen
   pos: 48.266666666667, 12.15
@@ -499,7 +499,7 @@
   start: 2013-04-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6784/stadtverwaltung-starnberg/
-  href: http://www.starnberg.de
+  href: https://www.starnberg.de/
   init: Wählergemenschaft Pro Starnberg
   name: Starnberg
   pos: 47.997222222222, 11.340555555556
@@ -509,7 +509,7 @@
 - bemerkung: bis 30.04.2016 befristet
   bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6783/stadtverwaltung-freising/
-  href: http://www.freising.de
+  href: https://www.freising.de/
   init: Fraktion Bündnis 90 / Die Grünen
   name: Freising
   pos: 48.4027, 11.7488
@@ -519,7 +519,7 @@
 - bemerkung: erneuert 2015-10-27
   bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6782/stadtverwaltung-penzberg/
-  href: http://www.penzberg.de/
+  href: https://www.penzberg.de/
   init: Die Piraten
   name: Penzberg
   pos: 47.75, 11.366
@@ -528,7 +528,7 @@
   start: 2013-07-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6822/gemeindeverwaltung-neubiberg/
-  href: http://www.neubiberg.de/
+  href: https://www.neubiberg.de/
   init: Die Piraten
   name: Neubiberg
   pos: 48.074722222222, 11.676944444444
@@ -537,7 +537,7 @@
   start: 2013-07-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/21038/stadt-weilheim-iob-landkreis-weilheim-schongau-/
-  href: http://www.weilheim.de/
+  href: https://www.weilheim.de/
   init: B90/Die Grünen UWV/FDP/Die Piraten
   name: Weilheim i.OB
   pos: 47.83, 11.133
@@ -546,7 +546,7 @@
   start: 2013-08-06
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/7049/marktverwaltung-peissenberg/
-  href: http://www.peissenberg.de/rathaus
+  href: https://www.peissenberg.de
   init: Die Piraten
   name: Peißenberg
   pos: 47.799, 11.0652
@@ -555,7 +555,7 @@
   start: 2014-01-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/20542/stadt-garching-bmunchen-landkreis-munchen-/
-  href: http://www.garching.de
+  href: https://www.garching.de
   init: Bündnis 90 / Die Grünen
   name: Garching
   pos: 48.25, 11.65
@@ -564,7 +564,7 @@
   start: 2013-11-11
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6821/gemeindeverwaltung-eresing/
-  href: https://www.vg-windach.de/index.php?id=0,72
+  href: https://vg-windach.de/
   name: Eresing
   pos: 48.087, 11.024
   resident: 1733
@@ -572,7 +572,7 @@
   start: 2014-05-06
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6778/stadtverwaltung-wolfratshausen/
-  href: http://www.wolfratshausen.de
+  href: https://www.wolfratshausen.de/
   init: Grünen, ursprünglich CSU
   name: Wolfratshausen
   pos: 47.914, 11.418
@@ -582,7 +582,7 @@
 - bemerkung: bis 31.7.2016 befristet
   bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6611/stadtverwaltung-grafing/
-  href: http://grafing.de
+  href: https://grafing.de/
   init: Bündnis 90 / Die Grünen
   name: Grafing
   pos: 48.05, 11.966667
@@ -591,7 +591,7 @@
   start: 2014-08-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6610/stadtverwaltung-pocking/
-  href: http://www.poecking.de
+  href: https://www.poecking.de/
   name: Pöcking
   pos: 47.966, 11.3
   resident: 5434
@@ -599,7 +599,7 @@
   start: 2014-08-15
 - bez: Schwaben
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6607/stadtverwaltung-augsburg/
-  href: http://www.augsburg.de
+  href: https://www.augsburg.de/
   init: B90/Die Grünen / SPD / AfD
   name: Augsburg
   pos: 48.371667, 10.898333
@@ -608,7 +608,7 @@
   start: 2014-10-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6820/gemeindeverwaltung-neuried/
-  href: http://www.neuried.de
+  href: https://www.neuried.de/
   init: B90/Die Grünen
   name: Neuried
   pos: 48.093, 11.465
@@ -617,7 +617,7 @@
   start: 2014-09-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6819/gemeindeverwaltung-eching/
-  href: http://www.eching.de
+  href: https://www.eching.de/
   init: Echinger Mitte
   name: Eching
   pos: 48.3, 11.616
@@ -627,7 +627,7 @@
 - art: Landkreis
   bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/15483/landratsamt-ebersberg/
-  href: http://www.landkreis-ebersberg.de
+  href: https://lra-ebe.de/
   init: Bündnis 90 / Die Grünen
   name: Landkreis Ebersberg
   pos: 48.083, 11.966
@@ -637,7 +637,7 @@
 - bemerkung: null
   bez: Niederbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/11220/bezirk-niederbayern/
-  href: http://bezirk-niederbayern.de
+  href: https://www.bezirk-niederbayern.de/
   init: null
   name: Bezirk Niederbayern
   pos: none
@@ -647,7 +647,7 @@
 - bemerkung: null
   bez: Oberpfalz
   fragdenstaat_url: https://fragdenstaat.de/behoerde/7682/stadtverwaltung-burglengenfeld/
-  href: http://www.burglengenfeld.de/
+  href: https://www.burglengenfeld.de/startseite/
   init: CSU
   name: Burglengenfeld
   pos: 49.21, 12.05
@@ -657,7 +657,7 @@
 - bemerkung: null
   bez: Niederbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/20497/gemeinde-bodenmais-landkreis-regen-/
-  href: http://buerger.bodenmais.de
+  href: https://www.bodenmais.de/buergerservice/
   init: SPD
   name: Bodenmais
   pos: 49.06666, 13.1
@@ -666,7 +666,7 @@
   start: 2015-03-03
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/7684/gemeindeverwaltung-inzell/
-  href: http://www.gemeindeverwaltung-inzell.de
+  href: https://www.gemeindeverwaltung-inzell.de/
   init: SPD
   name: Inzell
   pos: 47.7625, 12.749166
@@ -675,7 +675,7 @@
   start: 2015-04-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/21042/gemeinde-weling-landkreis-starnberg-/
-  href: http://www.gemeinde-wessling.de/
+  href: https://www.gemeinde-wessling.de/
   name: Weßling
   pos: 48.07805, 11.2525
   resident: 5276
@@ -683,7 +683,7 @@
   start: 2015-06-26
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/12877/bad-reichenhall/
-  href: http://www.stadt-bad-reichenhall.de
+  href: https://www.stadt-bad-reichenhall.de/
   name: Bad Reichenhall
   pos: 47.731, 12.881
   resident: 17137
@@ -691,7 +691,7 @@
   start: 2015-11-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/11720/gemeinde-haar-landkreis-munchen-/
-  href: http://www.gemeinde-haar.de
+  href: https://www.gemeinde-haar.de/willkommen
   init: FWG
   name: Haar
   pos: 48.1113, 11.7311
@@ -701,7 +701,7 @@
 - art: Landkreis
   bez: Oberpfalz
   fragdenstaat_url: https://fragdenstaat.de/behoerde/15528/landratsamt-regen/
-  href: http://www.landkreis-regen.de
+  href: https://www.landkreis-regen.de/
   name: Landkreis Regen
   pos: 49.02,13.1
   resident: 76265
@@ -710,7 +710,7 @@
 - bemerkung: null
   bez: Schwaben
   fragdenstaat_url: https://fragdenstaat.de/behoerde/12878/stadt-weissenhorn/
-  href: https://www.weissenhorn.de
+  href: https://www.weissenhorn.de/
   init: null
   name: Weißenhorn
   pos: 48.305, 10.160
@@ -719,7 +719,7 @@
   start: 2015-11-01
 - bez: Mittelfranken
   fragdenstaat_url: https://fragdenstaat.de/behoerde/11506/gemeinde-diespeck-landkreis-neustadt-adaisch-bad-windsheim-/
-  href: http://www.diespeck.de/
+  href: https://www.diespeck.de/
   name: Diespeck
   pos: 49.59, 10.63
   resident: 3585
@@ -727,7 +727,7 @@
   start: 2016-01-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/20543/gemeinde-garmisch-partenkirchen-landkreis-garmisch-partenkirchen-/
-  href: http://www.gapa.de
+  href: https://buergerservice.gapa.de/
   name: Garmisch-Partenkirchen
   pos: 47.49, 11.10
   resident: 26319
@@ -744,7 +744,7 @@
 - art: Ausarbeitung
   bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/11882/gemeinde-kirchheim-bmunchen-landkreis-munchen-/
-  href: http://www.kirchheim-heimstetten.de/
+  href: https://www.kirchheim-heimstetten.de/
   name: Kirchheim bei München
   pos: 48.176, 11.755
   resident: 12769
@@ -753,7 +753,7 @@
 - art: Ausarbeitung
   bez: Schwaben
   fragdenstaat_url: https://fragdenstaat.de/behoerde/15467/landratsamt-augsburg/
-  href: http://www.landkreis-augsburg.de/
+  href: https://www.landkreis-augsburg.de/
   init: B90/Die Grünen
   name: Landkreis Augsburg
   pos: 48.35, 10.73
@@ -762,7 +762,7 @@
   start: null
 - bez: Oberpfalz
   fragdenstaat_url: https://fragdenstaat.de/behoerde/19745/gemeinde-berg-bei-neumarkt-in-der-oberpfalz-landkreis-neumarkt-idopf-/
-  href: https://www.berg-opf.de
+  href: https://berg-opf.de/
   init: Bayerischer Journalisten Verband
   name: Berg bei Neumarkt in der Oberpfalz
   pos: 49.330615, 11.440263
@@ -800,7 +800,7 @@
 - bemerkung: bis 30.04.2020 befristet
   bez: Oberpfalz
   fragdenstaat_url: https://fragdenstaat.de/behoerde/19740/stadt-freystadt-landkreis-neumarkt-idopf-/
-  href: https://buergerservice.freystadt.de/hp358/Ortsrecht.htm
+  href: https://buergerservice.freystadt.de/verwaltung/ortsrecht/
   init: Bayerischer Journalisten Verband
   name: Freystadt
   pos: 49.2, 11.316667
@@ -830,7 +830,7 @@
 - bemerkung: null
   bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/11729/gemeinde-haimhausen-landkreis-dachau-/
-  href: https://haimhausen.de
+  href: https://www.haimhausen.de/
   init: SPD
   name: Haimhausen
   pos: 48.316667,11.566667
@@ -840,7 +840,7 @@
 - bemerkung: bis 31.12.2019 befristet
   bez: Oberpfalz
   fragdenstaat_url: https://fragdenstaat.de/behoerde/19742/stadt-velburg-landkreis-neumarkt-idopf-/
-  href: https://www.Velburg.de/
+  href: https://velburg.de/
   init: Bayerischer Journalisten Verband
   name: Stadt Velburg
   pos: 49.23, 11.66
@@ -850,7 +850,7 @@
 - bemerkung: bis 30.04.2020 befristet
   bez: Oberpfalz
   fragdenstaat_url: https://fragdenstaat.de/behoerde/19744/gemeinde-sengenthal-landkreis-neumarkt-idopf-/
-  href: https://www.sengenthal.de/
+  href: https://sengenthal.de/
   init: Bayerischer Journalisten Verband
   name: Sengenthal
   pos: 49.23, 11.4667
@@ -860,7 +860,7 @@
 - bemerkung: null
   bez: Mittelfranken
   fragdenstaat_url: https://fragdenstaat.de/behoerde/19993/gemeinde-schwarzenbruck-landkreis-nurnberger-land-/
-  href: https://schwarzenbruck.de
+  href: https://schwarzenbruck.de/
   init: CSU
   name: Schwarzenbruck
   pos: 49.358, 11.2452
