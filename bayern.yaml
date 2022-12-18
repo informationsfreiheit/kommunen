@@ -23,7 +23,7 @@
   name: Grasbrunn
   pos: 48.0788, 11.7436
   resident: 6465
-  satzlink: https://www.grasbrunn.de/Satzung-zur-Regelung-des-Zugangs-zu-Informationen-des-eigenen-Wirkungskreises-der-Gemeinde-Grasbrunn-Informationsfreiheitssatzung-vom-31.05.2010.o228.html
+  satzlink: https://www.grasbrunn.de/ceasy/serve/usage/main.php?view=publish&item=statute&id=1061
   start: 2009-06-01
 - bez: Unterfranken
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6815/stadtverwaltung-kitzingen/
@@ -68,7 +68,7 @@
   name: Sinzing
   pos: 48.991111111111, 12.034722222222
   resident: 6790
-  satzlink: http://www.sinzing.de/DynDox/B9E53A99-8147-4102-A41D-09F6FDF87095/Satzung_Erlass%20einer%20Informationssatzung_26.02.10.pdf
+  satzlink: https://www.sinzing.de/media/1146/sonstige-satzungen-satzung-erlass-einer-informationssatzung-vom-260210.pdf
   start: 2010-06-01
 - bez: Niederbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/5144/stadtverwaltung-passau/
@@ -696,7 +696,7 @@
   name: Haar
   pos: 48.1113, 11.7311
   resident: 19879
-  satzlink: http://www.gemeinde-haar.de/e104/e2455/e7906/2015-12-08Informationsfreiheitssatzung-Internetfassung-.pdf?preview=preview
+  satzlink: https://www.gemeinde-haar.de/ceasy/serve/usage/main.php?view=publish&item=statute&id=1026
   start: 2015-11-19
 - art: Landkreis
   bez: Oberpfalz
@@ -739,7 +739,7 @@
   name: Friedberg
   pos: 48.35, 10.9833
   resident: 29081
-  satzlink: https://www.friedberg.de/pics/medien/1_1478243636/Informationsfreiheitssatzung_ab_01.09.2016.pdf
+  satzlink: https://www.friedberg.de/politik-verwaltung/rathausservice/ortsrecht/informationsfreiheitssatzung/informationsfreiheitssatzung-ab-01.09.2016.pdf?cid=47y
   start: 2016-09-01
 - art: Ausarbeitung
   bez: Oberbayern
