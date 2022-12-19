@@ -5,7 +5,7 @@
   name: Prien am Chiemsee
   pos: 47.8555, 12.344166
   resident: 10075
-  satzlink: http://www.prien.de/files/Satzungen_und_Verordnungen/informationsfreiheitssatzung.pdf
+  satzlink: https://www.prien.de/files/Satzungen_und_Verordnungen/informationsfreiheitssatzung.pdf
   start: 2009-01-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6817/stadtverwaltung-pullach/
@@ -23,7 +23,7 @@
   name: Grasbrunn
   pos: 48.0788, 11.7436
   resident: 6465
-  satzlink: https://www.grasbrunn.de/ceasy/serve/usage/main.php?view=publish&item=statute&id=1061
+  satzlink: https://www.grasbrunn.de/ceasy/resource/?id=1440
   start: 2009-06-01
 - bez: Unterfranken
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6815/stadtverwaltung-kitzingen/
@@ -41,7 +41,7 @@
   name: Bad Aibling
   pos: 47.866666666667, 12.016666666667
   resident: 17316
-  satzlink: http://www.bad-aibling.de/fileadmin/redakteur/Buergerservice/Rathaus/Sachregister/SatzungenundVerordnungen/Informationsfreiheitssatzung.pdf
+  satzlink: https://rathaus.bad-aibling.de/fileadmin/redakteur_buergerservice/pdf/Rathaus/Aemter/Hauptamt/Informationsfreiheitssatzung_BadAibling.pdf
   start: 2010-03-01
 - bez: Unterfranken
   fragdenstaat_url: https://fragdenstaat.de/behoerde/20584/gemeinde-kahl-amain-landkreis-aschaffenburg-/
@@ -50,7 +50,7 @@
   name: Kahl am Main
   pos: 50.068055555556, 9.0066666666667
   resident: 7365
-  satzlink: http://ortsrecht-kahl.otter-software.de/pdf/Gemeinde/Satzungen/Informationsfreiheitssatzung.pdf
+  satzlink: 
   start: 2010-04-01
 - bez: Oberpfalz
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6813/stadtverwaltung-schwandorf/
@@ -59,7 +59,7 @@
   name: Schwandorf
   pos: 49.328333333333, 12.11
   resident: 27802
-  satzlink: http://www.schwandorf.de/media/custom/1651_645_1.PDF
+  satzlink: https://www.schwandorf.de/media/custom/1651_645_1.PDF
   start: 2010-04-09
 - bez: Oberpfalz
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6828/gemeindeverwaltung-sinzing/
@@ -86,7 +86,7 @@
   name: Ottobrunn
   pos: 48.066666666667, 11.666666666667
   resident: 20609
-  satzlink: http://www.ottobrunn.de/Dox.aspx?docid={A62FA4EC-D550-475E-9BAD-FC2A6B502214}
+  satzlink: https://www.ottobrunn.de/fileadmin/Dateien/Ortsrecht/Ortsrrecht_Hauptamt_Informationsfreiheitssatzung_Gemeinde_2010.pdf
   start: 2010-10-14
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6833/marktverwaltung-bad-endorf/
@@ -95,7 +95,7 @@
   name: Bad Endorf
   pos: 47.9, 12.3
   resident: 8039
-  satzlink: http://www.bad-endorf.de/fileadmin/bad_endorf/pdf/Satzungen_Verordnungen/Informationsfreiheitssatzung_mit_Aenderung_der_Kostensatzung.pdf
+  satzlink: https://www.bad-endorf.de/bad-endorf.de/buerger-und-rathaus/gemeinde/buergerservice/ortsrecht-satzungen/informationsfreiheitssatzung_mit_aenderung_der_kostensatzung.pdf
   start: 2011-01-01
 - bez: Unterfranken
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6812/stadtverwaltung-wurzburg/
@@ -104,7 +104,7 @@
   name: Würzburg
   pos: 49.794444444444, 9.9294444444444
   resident: 124577
-  satzlink: http://www.wuerzburg.de/media/www.wuerzburg.de/org/med_9025/40097_1.2.4_pdf.pdf
+  satzlink: https://www.wuerzburg.de/media/www.wuerzburg.de/org/med_9025/40097_1.2.4_pdf.pdf
   start: 2011-01-01
 - art: ausserkraft
   bemerkung: bis 31.12.2014 befristet
@@ -115,7 +115,7 @@
   name: Landkreis Kelheim
   pos: 48.88,11.88
   resident: 113996
-  satzlink: http://www.landkreis-kelheim.de/amtsblatt/2011/krabl201104.pdf
+  satzlink: 
   start: 2011-02-15
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6811/stadtverwaltung-ingolstadt/
@@ -124,7 +124,7 @@
   name: Ingolstadt
   pos: 48.765555555556, 11.424444444444
   resident: 127886
-  satzlink: http://www2.ingolstadt.de/media/custom/465_6484_1.PDF?1299832353
+  satzlink: https://www.ingolstadt.de/media/custom/465_6484_1.PDF?1299832353
   start: 2011-03-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6810/stadtverwaltung-munchen/
@@ -153,7 +153,7 @@
   name: Abensberg
   pos: 48.816944444444, 11.848611111111
   resident: 12922
-  satzlink: http://www.abensberg.de/hauptamt/pdf/informationsfreiheitssatzung---ab-15.06.2015.pdf
+  satzlink: https://www.abensberg.de/stadtrecht/hijk/informationsfreiheit/informationsfreiheitssatzung---ab-15.06.2015.pdf
   start: 2015-06-15
 - bez: Oberfranken
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6808/stadtverwaltung-wunsiedel/
@@ -162,7 +162,7 @@
   name: Wunsiedel
   pos: 50.038611111111, 12.004722222222
   resident: 9371
-  satzlink: http://www.mehr-demokratie.de/fileadmin/i18t.org/pdf/IFS_Wunsiedel.pdf
+  satzlink: https://www.wunsiedel.de/output/download.php?fid=3514.134.1.PDF
   start: 2011-03-26
 - bemerkung: 1. Ausgabe vom 1.4.2011
   bez: Oberfranken
@@ -172,7 +172,7 @@
   name: Marktredwitz
   pos: 50.003, 12.083
   resident: 17147
-  satzlink: http://marktredwitz.de/file/3755_80.pdf
+  satzlink: https://www.yumpu.com/de/document/view/20706681/informationsfreiheitssatzung-stadt-marktredwitz
   start: 2013-12-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/20491/stadt-bad-tolz-landkreis-bad-tolz-wolfratshausen-/
@@ -181,7 +181,7 @@
   name: Bad Tölz
   pos: 47.760277777778, 11.556666666667
   resident: 17946
-  satzlink: http://www.bad-toelz.de/uploads/media/Informationsfreiheitssatzung_Ausfertigung.pdf
+  satzlink: https://stadt.bad-toelz.de/fileadmin/Dateien/Website/Dateien/Rathaus___Service/Satzungen_und_Verordnungen/Informationsfreiheitssatzung_Ausfertigung_02.pdf
   start: 2011-07-01
 - bez: Mittelfranken
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6805/stadtverwaltung-nurnberg/
@@ -208,7 +208,7 @@
   name: Röthenbach a. d. Pegnitz
   pos: 49.484722222222, 11.2475
   resident: 11788
-  satzlink: http://www.mehr-demokratie.de/fileadmin/i18t.org/pdf/IFS_Roethenbach.pdf
+  satzlink: https://www.roethenbach.de/media/uploads/dokumente/rathaus/rathaus-informationsfreiheitssatzung.pdf
   start: 2011-07-01
 - bez: Mittelfranken
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6802/stadtverwaltung-lauf-dpegnitz/
@@ -217,7 +217,7 @@
   name: Lauf a. d. Pegnitz
   pos: 49.510277777778, 11.277222222222
   resident: 25912
-  satzlink: http://www.lauf.de/db_files/pressemitteilungen/anhang/8993_2011_Informationsfreiheitssatzung.pdf
+  satzlink: https://www.lauf.de/index.php?id=startseite&no_cache=1
   start: 2011-07-30
 - bez: Mittelfranken
   fragdenstaat_url: https://fragdenstaat.de/behoerde/15463/stadt-ansbach/
@@ -226,7 +226,7 @@
   name: Ansbach
   pos: 49.300833333333, 10.571666666667
   resident: 39684
-  satzlink: http://www.ansbach.de/lc/upmedia/pdf/Informationsfreiheitssatzung_24.10.2011.pdf
+  satzlink: https://www.ansbach.de/media/custom/2595_87_1.PDF?1439471451
   start: 2011-10-24
 - bez: Oberpfalz
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6800/stadtverwaltung-weiden-idopf/
@@ -235,7 +235,7 @@
   name: Weiden
   pos: 49.66, 12.15
   resident: 41684
-  satzlink: http://www.stadtweiden.info/stadtrecht/S070.pdf
+  satzlink: https://www.weiden.de/fileadmin/user_upload/A_Stadt-Rathaus-Buerger/A03_Rathaus/Stadtrecht/S070.pdf
   start: 2011-08-17
 - bez: Oberfranken
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6799/stadtverwaltung-bamberg/
@@ -253,7 +253,7 @@
   name: Rosenheim
   pos: 47.856111111111, 12.128888888889
   resident: 59935
-  satzlink: https://www.rosenheim.de/fileadmin/Dateien/Ortsrecht/020.pdf
+  satzlink: https://www.rosenheim.de/uploads/media/020.pdf
   start: 2011-11-03
 - bez: Mittelfranken
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6826/gemeindeverwaltung-rottenbach/
@@ -262,7 +262,7 @@
   name: Röttenbach bei Erlangen
   pos: 49.66, 10.933
   resident: 4595
-  satzlink: http://www.mehr-demokratie.de/fileadmin/i18t.org/pdf/IFS_Röttenbach.pdf
+  satzlink: https://www.roettenbach-erh.de/gemeinde/informationen/dokumente/111102Infofreiheitssatzung.pdf?m=1522913987&
   start: 2011-11-04
 - bez: Schwaben
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6797/stadtverwaltung-memmingen/
@@ -271,7 +271,7 @@
   name: Memmingen
   pos: 47.987777777778, 10.181111111111
   resident: 41551
-  satzlink: http://stadtrecht.memmingen.de/fileadmin/Stadtrecht/SVBl/2011/SVBl-MM_2011-12-02_Nr24_S_133-135.pdf
+  satzlink: https://stadtrecht.memmingen.de/fileadmin/Stadtrecht/SVBl/2011/SVBl-MM_2011-12-02_Nr24_S_133-135.pdf
   start: 2012-01-01
 - art: Landkreis
   bemerkung: 1. Ausgabe von 2012-03-01
@@ -282,7 +282,7 @@
   name: Landkreis Starnberg
   pos: 48.01, 11.28
   resident: 129530
-  satzlink: http://www.lk-starnberg.de/index.php?NavID=613.2054
+  satzlink: https://www.lk-starnberg.de/index.php?NavID=613.2054
   start: 2014-03-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/20508/stadt-dachau-landkreis-dachau-/
@@ -291,7 +291,7 @@
   name: Dachau
   pos: 48.260277777778, 11.434166666667
   resident: 44822
-  satzlink: http://www.dachau.de/uploads/Informationsfreiheitssatzung.pdf
+  satzlink: https://www.dachau.de/archiv/PDF/Informationsfreiheitssatzung_02.pdf
   start: 2012-01-01
 - bemerkung: null
   bez: Schwaben
@@ -301,7 +301,7 @@
   name: Illertissen
   pos: 48.222777777778, 10.105277777778
   resident: 16647
-  satzlink: http://www.illertissen.de/index.php?id=5419,158
+  satzlink: https://www.illertissen.de/index.php?id=5419,158
   start: 2012-01-01
 - art: Landkreis
   bez: Oberbayern
@@ -311,7 +311,7 @@
   name: Landkreis Dachau
   pos: 48.33, 11.36
   resident: 142021
-  satzlink: http://www.mehr-demokratie.de/fileadmin/i18t.org/pdf/IFS_Landkreis_Dachau.pdf
+  satzlink: https://www.landratsamt-dachau.de/media/7624/satzung-zur-regelung-des-zugangs-zu-informationen-des-eigenen-wirkungskreises-des-landkreises-dachau-informationsfreiheitssatzung.pdf
   start: 2012-01-15
 - art: ausserkraft
   bemerkung: bis 31.10.2013 befristet
@@ -322,7 +322,7 @@
   name: Hof (Saale)
   pos: 50.32, 11.91
   resident: 44461
-  satzlink: http://www.stadt-hof.de/hof/media/files/rathaus/ortsrecht/047-1.pdf
+  satzlink: 
   start: 2011-11-01
 - bez: Schwaben
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6794/stadtverwaltung-nordlingen/
@@ -330,7 +330,7 @@
   name: Nördlingen
   pos: 48.850830555556, 10.489575
   resident: 19268
-  satzlink: http://www.stadt.noerdlingen.de/uploads/media/Informationsfreiheitssatzung.pdf
+  satzlink: https://www.noerdlingen.de/
   start: 2011-05-28
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6793/stadtverwaltung-grobenzell/
@@ -339,7 +339,7 @@
   name: Gröbenzell
   pos: 48.192777777778, 11.371944444444
   resident: 19270
-  satzlink: https://www.groebenzell.de/fileadmin/content/PDF/Ortsrecht/Satzungen/S36_Informationsfreiheitssatzung.PDF
+  satzlink: https://www.groebenzell.de/wp-content/uploads/2022/07/S36_Informationsfreiheitssatzung.pdf
   start: 2012-04-04
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6825/gemeindeverwaltung-poing/
@@ -348,7 +348,7 @@
   name: Poing
   pos: 48.170869444444, 11.818486111111
   resident: 13750
-  satzlink: http://www.poing.de/fileadmin/content/pdf/Satzungen/Informationsfreiheitssatzung.pdf
+  satzlink: https://www.poing.de/fileadmin/eigene_dateien/02_Rathaus_Politik/Ortsrecht/Verwaltung___Gemeindeverfassung/29-06-2015-SZ-Informationsfreiheit.pdf
   start: 2012-04-25
 - bez: Oberpfalz
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6792/stadtverwaltung-amberg/
@@ -357,7 +357,7 @@
   name: Amberg
   pos: 49.444444444444, 11.848333333333
   resident: 41578
-  satzlink: http://www.amberg.de/fileadmin/Inhalte/Buergerservice/Stadtrecht/1105.pdf
+  satzlink: https://www.amberg.de/fileadmin/Stadtrecht/1105.pdf
   start: 2012-06-02
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6791/stadtverwaltung-laufen/
@@ -366,7 +366,7 @@
   name: Laufen
   pos: 47.936, 12.9325
   resident: 6869
-  satzlink: https://service.stadtlaufen.de/index.php/ortsrecht.html?file=files/stadtservice/ortsrecht/Informationsfreiheitssatzung.pdf
+  satzlink: https://stadtlaufen.de/ortsrecht.html?file=files/stadtservice/ortsrecht/Informationsfreiheitssatzung.pdf
   start: 2012-07-01
 - bez: Unterfranken
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6790/stadtverwaltung-schweinfurt/
@@ -384,7 +384,7 @@
   name: Gauting
   pos: 48.067777777778, 11.373888888889
   resident: 19758
-  satzlink: http://www.gauting.de/fileadmin/gauting-online/dateien/bilder/rathaus/satzung_und_verordnung/20170710_informationsfreiheitssatzung_ausgefertigt.pdf
+  satzlink: https://www.gauting.de/
   start: 2012-07-18
 - art: Landkreis
   bez: Oberbayern
@@ -394,7 +394,7 @@
   name: Landkreis Freising
   pos: 48.45, 11.74
   resident: 166286
-  satzlink: http://www.kreis-freising.de/fileadmin/docs/Buero_des_Landrats/Amtsblatt_2012/Amtsblatt12_19.pdf
+  satzlink: https://www.kreis-freising.de/fileadmin/user_upload/Aemter/Amtsleitung_und_Politik/Sitzungsdienst/Informationsfreiheitssatzung.pdf
   start: 2012-08-01
 - bemerkung: null
   bez: Oberbayern
@@ -404,7 +404,7 @@
   name: Murnau
   pos: 47.6741, 11.20166
   resident: 11453
-  satzlink: http://www.murnau.de/download.php?artid=%7B16e1b557-72a5-3679-46d8-2cfbfe6a80be%7D
+  satzlink: https://www.murnau.de/media/files/satzungen/Satzung_Informationsfreiheit_2015.pdf
   start: 2012-09-01
 - bemerkung: null
   bez: Oberbayern
@@ -414,7 +414,7 @@
   name: Eichstätt
   pos: 48.891944444444, 11.183888888889
   resident: 13146
-  satzlink: http://www.eichstaett.de/pdf/ortsrecht-satzungen/informationsfreiheitssatzung_1.pdf
+  satzlink: https://www.eichstaett.de/pdf/ortsrecht-satzungen/informationsfreiheitssatzung_1.pdf
   start: 2012-09-01
 - bemerkung: null
   bez: Oberbayern
@@ -424,7 +424,7 @@
   name: Bezirk Oberbayern
   pos: none
   resident: null
-  satzlink: /wp-content/uploads/2012/09/IFS_Oberbayern..pdf
+  satzlink: https://www.bezirk-oberbayern.de/media/custom/2378_434_1.PDF?1524820981
   start: 2012-10-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6789/stadtverwaltung-moosburg-d-isar/
@@ -453,15 +453,17 @@
   resident: 15111
   satzlink: http://www.altdorf.de/eigene_dateien/rathaus-verwaltung/pdf-satzungen/informationsfreiheitssatzung_vom_06.12.2012.pdf
   start: 2012-12-06
-- bez: Oberbayern
+- art: ausserkraft
+  bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/11602/gemeinde-feldkirchen-westerham-landkreis-rosenheim-/
   href: https://feldkirchen-westerham.de/
   init: Pro Bürger
   name: Feldkirchen-Westerham
   pos: 47.9, 11.85
   resident: 10387
-  satzlink: http://www.feldkirchen-westerham.de/index.php?option=com_rubberdoc&view=doc&id=416&format=raw
+  satzlink: 
   start: 2013-01-01
+  bemerkung: 30.05.2017
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6787/stadtverwaltung-landsberg-am-lech/
   href: https://www.landsberg.de/
@@ -469,7 +471,7 @@
   name: Landsberg am Lech
   pos: 48.049444444444, 10.877777777778
   resident: 27841
-  satzlink: http://www.landsberg.de/web.nsf/gfx/Informationsfreiheitssatzung170113.pdf/$file/Informationsfreiheitssatzung170113.pdf
+  satzlink: https://www.landsberg.de/fileadmin/user_upload/download/Rathaus-Stadtrecht/10_130117_Informationsfreiheitssatzung.pdf
   start: 2013-01-18
 - bez: Niederbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/20942/stadt-straubing/
@@ -495,7 +497,7 @@
   name: Dorfen
   pos: 48.266666666667, 12.15
   resident: 14052
-  satzlink: http://www.dorfen.de/ortsrecht/116-ortsrecht/satzung-zur-regelung-des-zugangs-zu-informationen-des-eigenen-wirkungskreises-der-stadt-dorfen/download
+  satzlink: https://www.dorfen.de/media/2041/informationsfreiheitssatzung-stadt-dorfen.pdf
   start: 2013-04-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6784/stadtverwaltung-starnberg/
@@ -504,7 +506,7 @@
   name: Starnberg
   pos: 47.997222222222, 11.340555555556
   resident: 22497
-  satzlink: http://www.starnberg.de/fileadmin/user_upload/starnberg/redakteure/Informationsfreiheitssatzung.pdf
+  satzlink: https://www.starnberg.de/assets/downloads/buergerservice-verwaltung/Satzungen_und_Verordnungen/Informationsfreiheitssatzung.pdf
   start: 2013-05-01
 - bemerkung: bis 30.04.2016 befristet
   bez: Oberbayern
@@ -514,7 +516,7 @@
   name: Freising
   pos: 48.4027, 11.7488
   resident: 45227
-  satzlink: http://www.freising.de/fileadmin/user_upload/05_Recht/0510_pdf-Files/Teil_1_-_Gemeindeverfassung_-_Allgemeine_Verwaltung/1-01_InformationsfreiheitsS_12._April_2013.pdf
+  satzlink: 
   start: 2013-05-01
 - bemerkung: erneuert 2015-10-27
   bez: Oberbayern
@@ -524,7 +526,7 @@
   name: Penzberg
   pos: 47.75, 11.366
   resident: 16092
-  satzlink: http://www.penzberg.de/fileadmin/user_upload/pdfs/Satzungen_Gebuehren/Informationsfreiheitssatzung_27_10_2015.pdf
+  satzlink: https://www.penzberg.de/fileadmin/user_upload/pdfs/Satzungen_Gebuehren_Richtlinien/Informationsfreiheitssatzung_27_10_2015.pdf
   start: 2013-07-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6822/gemeindeverwaltung-neubiberg/
@@ -533,7 +535,7 @@
   name: Neubiberg
   pos: 48.074722222222, 11.676944444444
   resident: 13427
-  satzlink: http://www.neubiberg.de/uploads/tx_asdocuments/S-Informationsfreiheitssatzung_12.07.2013.pdf
+  satzlink: https://www.neubiberg.de/ceasy/serve/usage/main.php?view=publish&item=statute&id=1039
   start: 2013-07-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/21038/stadt-weilheim-iob-landkreis-weilheim-schongau-/
@@ -542,7 +544,7 @@
   name: Weilheim i.OB
   pos: 47.83, 11.133
   resident: 21308
-  satzlink: http://www.weilheim.de/index.asp?tid=2&detail=true&seid=32&cid=15283&cn=17/2013&caid=603&nid=61
+  satzlink: https://www.weilheim.de/mein-weilheim/buergerservice/rathaus/stadtinfo/amtsblaetter/365-amtsblaetter-2013/amtsblatt-17-2013-vom-05-08-2013/1316-ausfertigung-satzung-zur-regelung-des-zugangs-zu-informationen-im-eigenen-wirkungskreis-der-stadt-weilheim-i-ob-informationsfreiheitssatzung
   start: 2013-08-06
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/7049/marktverwaltung-peissenberg/
@@ -551,7 +553,7 @@
   name: Peißenberg
   pos: 47.799, 11.0652
   resident: 12315
-  satzlink: http://www.peissenberg.de/rathaus/aktuelle-amtsblaetter/Ab3713.pdf/view
+  satzlink: https://www.peissenberg.de/fileadmin/Dokumente/Satzungen-Verordnungen/20Informationsfreiheitssatzung.pdf
   start: 2014-01-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/20542/stadt-garching-bmunchen-landkreis-munchen-/
@@ -560,7 +562,7 @@
   name: Garching
   pos: 48.25, 11.65
   resident: 16219
-  satzlink: http://www.garching.de/garching_media/2_Rathaus+_+Service/22_Stadtverwaltung/Satzung+zur+Regelung+des+Zugangs+zu+Informationen+des+eigenen+Wirkungskreises.pdf
+  satzlink: https://www.garching.de/f%C3%B6rderungen-und-ortsrecht/_/Satzung%20zur%20Regelung%20des%20Zugangs%20zu%20Informationen%20des%20eigenen%20Wirkungskreises.pdf
   start: 2013-11-11
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6821/gemeindeverwaltung-eresing/
@@ -568,7 +570,7 @@
   name: Eresing
   pos: 48.087, 11.024
   resident: 1733
-  satzlink: https://www.vg-windach.de/export/download.php?id=3362&lang=de&type=download&object=3362
+  satzlink: 
   start: 2014-05-06
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6778/stadtverwaltung-wolfratshausen/
@@ -577,7 +579,7 @@
   name: Wolfratshausen
   pos: 47.914, 11.418
   resident: 17580
-  satzlink: http://www.wolfratshausen.de/fileadmin/1._PDF/2_Buerger_Verwaltung/4Informationsfreiheitssatzung/Informationsfreiheitssatzung.pdf
+  satzlink: https://www.wolfratshausen.de/fileadmin/Stadt_Wolfratshausen/Dateien/Satzungen_und_Verordnungen/Informationsfreiheitssatzung_Stand_2017.pdf
   start: 2014-07-01
 - bemerkung: bis 31.7.2016 befristet
   bez: Oberbayern
@@ -587,7 +589,7 @@
   name: Grafing
   pos: 48.05, 11.966667
   resident: 12935
-  satzlink: http://grafing.de/index.php?id=4669,100044&suche=
+  satzlink: https://www.grafing.de/_Resources/Persistent/a/f/f/2/aff29adc7d173e29c1391e6631108cd660b53fc7/infosatzung23.10.18.pdf
   start: 2014-08-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6610/stadtverwaltung-pocking/
@@ -595,7 +597,7 @@
   name: Pöcking
   pos: 47.966, 11.3
   resident: 5434
-  satzlink: http://www.peissenberg.de/fileadmin/user_upload/Satzungen/informationsfreitheitssatzung2013.pdf
+  satzlink: https://www.poecking.de/fileadmin/Gemeinde/Dateien/Ortsrecht/informationsfreiheitssatzung_ifs.pdf
   start: 2014-08-15
 - bez: Schwaben
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6607/stadtverwaltung-augsburg/
@@ -604,7 +606,7 @@
   name: Augsburg
   pos: 48.371667, 10.898333
   resident: 272699
-  satzlink: http://www.augsburg.de/fileadmin/user_upload/buergerservice_rathaus/rathaus/stadtrecht/pdf/14/1400.pdf
+  satzlink: https://www.augsburg.de/fileadmin/user_upload/buergerservice_rathaus/rathaus/stadtrecht/pdf/14/1400.pdf
   start: 2014-10-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6820/gemeindeverwaltung-neuried/
@@ -613,7 +615,7 @@
   name: Neuried
   pos: 48.093, 11.465
   resident: 8437
-  satzlink: http://www.neuried.de/export/download.php?id=3961
+  satzlink: https://www.neuried.de/fileadmin/documents/Behoerdenwegweiser_Rechtsgrundlagen/Informationsfreiheitssatzung.pdf
   start: 2014-09-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6819/gemeindeverwaltung-eching/
@@ -622,7 +624,7 @@
   name: Eching
   pos: 48.3, 11.616
   resident: 13225
-  satzlink: http://www.eching.de/export/download.php?id=4758
+  satzlink: https://www.eching.de/satzung-zur-regelung-des-zugangs-zu-informationen-der-gemeinde-eching-transparenz-und-informationsfreiheitssatzung-ab-01.06.2018
   start: 2014-09-01
 - art: Landkreis
   bez: Oberbayern
@@ -632,7 +634,7 @@
   name: Landkreis Ebersberg
   pos: 48.083, 11.966
   resident: 131011
-  satzlink: http://www.landkreis-ebersberg.de/Dox.aspx?docid=76c3fd3e-a1dc-4568-848a-67a660447224
+  satzlink: https://lra-ebe.de/dox/media.aspx?data=VYVm1SOjJ2pz0%2BX5DzMS1vku7jerVvLUagMhJrQ62YFX4bHOzw9r6p%2FocujABWI6Y%2F6BelytrkL5Sg7owh5Qdh2jOG3uWmWO
   start: 2015-01-01
 - bemerkung: null
   bez: Niederbayern
@@ -642,7 +644,7 @@
   name: Bezirk Niederbayern
   pos: none
   resident: null
-  satzlink: http://bezirk-niederbayern.de/red/images_12/pdf/bt_informationsfreiheitssatzung.pdf
+  satzlink: 
   start: 2014-11-08
 - bemerkung: null
   bez: Oberpfalz
@@ -652,7 +654,7 @@
   name: Burglengenfeld
   pos: 49.21, 12.05
   resident: 12433
-  satzlink: http://www.burglengenfeld.de/fileadmin/user_upload/Informationsfreiheitssatzung.pdf
+  satzlink: https://www.burglengenfeld.de/fileadmin/Stadt_Burglengenfeld/Informationsfreiheitssatzung.pdf
   start: 2015-01-01
 - bemerkung: null
   bez: Niederbayern
@@ -671,7 +673,7 @@
   name: Inzell
   pos: 47.7625, 12.749166
   resident: 4527
-  satzlink: http://www.gemeindeverwaltung-inzell.de/files/informationsfreiheitssatzung.pdf
+  satzlink: 
   start: 2015-04-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/21042/gemeinde-weling-landkreis-starnberg-/
@@ -679,7 +681,7 @@
   name: Weßling
   pos: 48.07805, 11.2525
   resident: 5276
-  satzlink: http://www.gemeinde-wessling.de/fileadmin/assets/pdfs/Satzungen_-_Verordnungen/2015.06.26_-_Informationsfreiheitssatzung.pdf
+  satzlink: https://www.gemeinde-wessling.de/fileadmin/assets/pdfs/Satzungen-Verordnungen-Richtlinien/2015.06.26_-_Informationsfreiheitssatzung.pdf
   start: 2015-06-26
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/12877/bad-reichenhall/
@@ -687,7 +689,7 @@
   name: Bad Reichenhall
   pos: 47.731, 12.881
   resident: 17137
-  satzlink: http://www.stadt-bad-reichenhall.de/medien/0-5-informationsfreiheitssatzung.pdf
+  satzlink: https://www.stadt-bad-reichenhall.de/cdn/uploads/informationsfreiheitssatzung.pdf
   start: 2015-11-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/11720/gemeinde-haar-landkreis-munchen-/
@@ -696,7 +698,7 @@
   name: Haar
   pos: 48.1113, 11.7311
   resident: 19879
-  satzlink: https://www.gemeinde-haar.de/ceasy/serve/usage/main.php?view=publish&item=statute&id=1026
+  satzlink: https://www.gemeinde-haar.de/ceasy/resource/?id=1560
   start: 2015-11-19
 - art: Landkreis
   bez: Oberpfalz
@@ -731,7 +733,7 @@
   name: Garmisch-Partenkirchen
   pos: 47.49, 11.10
   resident: 26319
-  satzlink: http://buergerservice.gapa.de/buergerservice/satzungen-und-verordnungen/informationsfreiheitssatzung/informationsfreiheitssatzung.pdf
+  satzlink: https://buergerservice.gapa.de/wp-content/uploads/2021/11/informationsfreiheitssatzung.pdf
   start: 2016-01-01
 - bez: Schwaben
   fragdenstaat_url: https://fragdenstaat.de/behoerde/18297/stadt-friedberg-bayern/
@@ -748,7 +750,7 @@
   name: Kirchheim bei München
   pos: 48.176, 11.755
   resident: 12769
-  satzlink: null
+  satzlink: https://www.kirchheim-heimstetten.de/wp-content/uploads/2019/02/Informationsfreiheitssatzung.pdf
   start: null
 - art: Ausarbeitung
   bez: Schwaben
@@ -815,7 +817,7 @@
   name: Mühlhausen
   pos: 49.16387, 11.44559
   resident: 4937
-  satzlink: https://informationsfreiheit.org/wp-content/uploads/IFS_Mühlhausen.pdf
+  satzlink: https://informationsfreiheit.org/wp-content/uploads/IFS_M%C3%BChlhausen.pdf
   start: 2017-12-01
 - bemerkung: null
   bez: Oberpfalz
@@ -865,5 +867,5 @@
   name: Schwarzenbruck
   pos: 49.358, 11.2452
   resident: 8451
-  satzlink: null
+  satzlink: https://schwarzenbruck.de/wp-content/uploads/2022/09/Informationsfreiheitssatzung.pdf
   start: null
