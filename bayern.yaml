@@ -50,7 +50,7 @@
   name: Kahl am Main
   pos: 50.068055555556, 9.0066666666667
   resident: 7365
-  satzlink: 
+  satzlink: null
   start: 2010-04-01
 - bez: Oberpfalz
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6813/stadtverwaltung-schwandorf/
@@ -115,7 +115,7 @@
   name: Landkreis Kelheim
   pos: 48.88,11.88
   resident: 113996
-  satzlink: 
+  satzlink: null
   start: 2011-02-15
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6811/stadtverwaltung-ingolstadt/
@@ -322,7 +322,7 @@
   name: Hof (Saale)
   pos: 50.32, 11.91
   resident: 44461
-  satzlink: 
+  satzlink: null
   start: 2011-11-01
 - bez: Schwaben
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6794/stadtverwaltung-nordlingen/
@@ -454,6 +454,7 @@
   satzlink: http://www.altdorf.de/eigene_dateien/rathaus-verwaltung/pdf-satzungen/informationsfreiheitssatzung_vom_06.12.2012.pdf
   start: 2012-12-06
 - art: ausserkraft
+  bemerkung: 30.05.2017
   bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/11602/gemeinde-feldkirchen-westerham-landkreis-rosenheim-/
   href: https://feldkirchen-westerham.de/
@@ -461,9 +462,8 @@
   name: Feldkirchen-Westerham
   pos: 47.9, 11.85
   resident: 10387
-  satzlink: 
+  satzlink: null
   start: 2013-01-01
-  bemerkung: 30.05.2017
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6787/stadtverwaltung-landsberg-am-lech/
   href: https://www.landsberg.de/
@@ -479,7 +479,7 @@
   name: Straubing
   pos: 48.88, 12.56
   resident: 46027
-  satzlink: https://informationsfreiheit.org/wp-content/uploads/2015/11/Straubing10150informationsfreiheitssatzung-8el.pdf
+  satzlink: https://www.straubing.de/m_1183_dl
   start: 2013-02-01
 - bez: Niederbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6786/stadtverwaltung-freyung/
@@ -516,7 +516,7 @@
   name: Freising
   pos: 48.4027, 11.7488
   resident: 45227
-  satzlink: 
+  satzlink: null
   start: 2013-05-01
 - bemerkung: erneuert 2015-10-27
   bez: Oberbayern
@@ -570,7 +570,7 @@
   name: Eresing
   pos: 48.087, 11.024
   resident: 1733
-  satzlink: 
+  satzlink: null
   start: 2014-05-06
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6778/stadtverwaltung-wolfratshausen/
@@ -644,7 +644,7 @@
   name: Bezirk Niederbayern
   pos: none
   resident: null
-  satzlink: 
+  satzlink: null
   start: 2014-11-08
 - bemerkung: null
   bez: Oberpfalz
@@ -673,7 +673,7 @@
   name: Inzell
   pos: 47.7625, 12.749166
   resident: 4527
-  satzlink: 
+  satzlink: null
   start: 2015-04-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/21042/gemeinde-weling-landkreis-starnberg-/
@@ -707,7 +707,7 @@
   name: Landkreis Regen
   pos: 49.02,13.1
   resident: 76265
-  satzlink: https://informationsfreiheit.org/wp-content/uploads/2016/03/IFS-Regen.pdf
+  satzlink: https://www.landkreis-regen.de/wp-content/uploads/2017/03/Amtsblatt-14-2015-1.pdf
   start: 2015-08-01
 - bemerkung: null
   bez: Schwaben
