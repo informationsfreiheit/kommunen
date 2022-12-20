@@ -433,7 +433,7 @@
   name: Moosburg
   pos: 48.466,11.9333
   resident: 16971
-  satzlink: https://informationsfreiheit.org/wp-content/uploads/2012/10/Moosburg-Informationsfreiheitssatzung.pdf
+  satzlink: https://www.moosburg.de/informationsfreiheitssatzung
   start: 2012-11-01
 - bez: Mittelfranken
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6788/stadtverwaltung-furth/
@@ -442,7 +442,7 @@
   name: Fürth
   pos: 49.478333333333, 10.990277777778
   resident: 118358
-  satzlink: https://informationsfreiheit.org/wp-content/uploads/2012/10/IF-Satzung-F%C3%BCrth.pdf
+  satzlink: https://www.fuerth.de/Portaldata/1/Resources/FuertherRathaus/Ortsrecht/10_20_InformationsfreiheitSatzung.pdf
   start: 2012-11-01
 - bez: Mittelfranken
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6780/stadtverwaltung-altdorf-b-nurnberg/
@@ -779,7 +779,7 @@
   name: Landkreis Garmisch-Partenkirchen
   pos: 47.60, 11.15
   resident: 87385
-  satzlink: https://informationsfreiheit.org/wp-content/uploads/2012/01/IFS_LKR_Garmisch-Partenkirchen2017.pdf
+  satzlink: https://www.lra-gap.de/media/files/lra_bekanntmachungen/Satzung_zur_Regelung_des_Zugangs_zu_Informationen.pdf
   start: 2017-04-08
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/20537/stadt-furstenfeldbruck-landkreis-furstenfeldbruck-/
@@ -788,7 +788,7 @@
   name: Fürstenfeldbruck
   pos: 48.1777, 11.255556
   resident: 35708
-  satzlink: https://informationsfreiheit.org/wp-content/uploads/IFS_Fuerstenfeldbruck.pdf
+  satzlink: https://www.fuerstenfeldbruck.de/ffb/web.nsf/gfx/FEF477C02ED0B70CC12581C90043B6C9/$file/450%20Informationsfreiheitssatzung-IFS.pdf
   start: 2017-11-01
 - bez: Schwaben
   fragdenstaat_url: https://fragdenstaat.de/behoerde/19375/stadt-bobingen-landkreis-augsburg-/
@@ -797,7 +797,7 @@
   name: Stadt Bobingen
   pos: 48.270910, 10.833899
   resident: 16955
-  satzlink: https://informationsfreiheit.org/wp-content/uploads/IFS_Stadt-Bobingen-2017-10-24.pdf
+  satzlink: https://www.stadt-bobingen.de/_Resources/Persistent/d/d/3/4/dd34748b4ebb5aade94c437daf4ccc0ebb5aa563/Informationsfreiheitssatzung%20der%20Stadt%20Bobingen.pdf
   start: 2018-01-01
 - bemerkung: bis 30.04.2020 befristet
   bez: Oberpfalz
@@ -807,7 +807,7 @@
   name: Freystadt
   pos: 49.2, 11.316667
   resident: 8904
-  satzlink: https://informationsfreiheit.org/wp-content/uploads/IFS_Freystadt.pdf
+  satzlink: https://buergerservice.freystadt.de/download/a3a7eu5buo129dp5b0unhqb8u7b/Bekanntmachung.pdf
   start: 2017-10-01
 - bemerkung: bis 1.11.2019 befristet
   bez: Oberpfalz
@@ -817,7 +817,7 @@
   name: Mühlhausen
   pos: 49.16387, 11.44559
   resident: 4937
-  satzlink: https://informationsfreiheit.org/wp-content/uploads/IFS_M%C3%BChlhausen.pdf
+  satzlink: https://www.muehlhausen-sulz.de/assets/Uploads/informationsfreiheitssatzung-06112017.pdf
   start: 2017-12-01
 - bemerkung: null
   bez: Oberpfalz
@@ -827,7 +827,7 @@
   name: Neumarkt i.d.OPf
   pos: 49.283333, 11.466667
   resident: 39573
-  satzlink: https://informationsfreiheit.org/wp-content/uploads/IFS_Neumarkt.pdf
+  satzlink: https://www.neumarkt.de/media/1603/125_informationsfreiheitssatzung_23032018__pdf_.pdf
   start: 2018-04-01
 - bemerkung: null
   bez: Oberbayern
@@ -837,7 +837,7 @@
   name: Haimhausen
   pos: 48.316667,11.566667
   resident: 5514
-  satzlink: https://informationsfreiheit.org/wp-content/uploads/IFS_Haimhausen.pdf
+  satzlink: https://www.haimhausen.de/verwaltung-politik/satzungen-verordnungen/satzungen/satzung-zur-regelung-des-zugangs-zu-informationen-des-eigenen-wirkungskreises-der-gemeinde-haimhausen-informationsfreiheitssatzung.pdf?cid=2b7
   start: 2018-06-01
 - bemerkung: bis 31.12.2019 befristet
   bez: Oberpfalz
@@ -847,7 +847,7 @@
   name: Stadt Velburg
   pos: 49.23, 11.66
   resident: 5153
-  satzlink: https://informationsfreiheit.org/wp-content/uploads/IFS_StadtVelburg.pdf
+  satzlink: https://velburg.de/download/a8ptie9iok6atro187kaf422akk/InformationsfreiheitssatzungStadtVelburg.pdf
   start: 2017-10-01
 - bemerkung: bis 30.04.2020 befristet
   bez: Oberpfalz
@@ -857,7 +857,7 @@
   name: Sengenthal
   pos: 49.23, 11.4667
   resident: 3591
-  satzlink: https://informationsfreiheit.org/wp-content/uploads/IFS_Sengenthal.pdf
+  satzlink: https://sengenthal.de/download/ajvg0sdapbis633r00qhk3528i9/Informationsfreiheitsatzung%20SE.pdf
   start: 2017-12-01
 - bemerkung: null
   bez: Mittelfranken
