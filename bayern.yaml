@@ -508,7 +508,8 @@
   resident: 22497
   satzlink: https://www.starnberg.de/assets/downloads/buergerservice-verwaltung/Satzungen_und_Verordnungen/Informationsfreiheitssatzung.pdf
   start: 2013-05-01
-- bemerkung: bis 30.04.2016 befristet
+- art: ausserkraft
+  bemerkung: bis 30.04.2016 befristet
   bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6783/stadtverwaltung-freising/
   href: https://www.freising.de/
