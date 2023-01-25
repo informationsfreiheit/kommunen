@@ -50,7 +50,6 @@
   name: Kahl am Main
   pos: 50.068055555556, 9.0066666666667
   resident: 7365
-  satzlink: null
   start: 2010-04-01
 - bez: Oberpfalz
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6813/stadtverwaltung-schwandorf/
@@ -115,7 +114,6 @@
   name: Landkreis Kelheim
   pos: 48.88,11.88
   resident: 113996
-  satzlink: null
   start: 2011-02-15
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6811/stadtverwaltung-ingolstadt/
@@ -144,9 +142,7 @@
   resident: 138296
   satzlink: https://www.regensburg.de/rathaus/stadtrecht/inhalte-des-stadtrechts/57759/satzung-zur-regelung-des-zugangs-zu-informationen-des-eigenen-wirkungskreises-der-stadt-regensburg-informationsfreiheitssatzung-ifs-vom-21-03-2011.html
   start: 2011-05-01
-- art: null
-  bemerkung: null
-  bez: Niederbayern
+- bez: Niederbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/20464/stadt-abensberg-landkreis-kelheim-/
   href: https://www.abensberg.de/
   init: SPD
@@ -293,8 +289,7 @@
   resident: 44822
   satzlink: https://www.dachau.de/archiv/PDF/Informationsfreiheitssatzung_02.pdf
   start: 2012-01-01
-- bemerkung: null
-  bez: Schwaben
+- bez: Schwaben
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6795/stadtverwaltung-illertissen/
   href: https://www.illertissen.de/startseite
   init: ÖDP/AB/Grüne
@@ -322,7 +317,6 @@
   name: Hof (Saale)
   pos: 50.32, 11.91
   resident: 44461
-  satzlink: null
   start: 2011-11-01
 - bez: Schwaben
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6794/stadtverwaltung-nordlingen/
@@ -396,8 +390,7 @@
   resident: 166286
   satzlink: https://www.kreis-freising.de/fileadmin/user_upload/Aemter/Amtsleitung_und_Politik/Sitzungsdienst/Informationsfreiheitssatzung.pdf
   start: 2012-08-01
-- bemerkung: null
-  bez: Oberbayern
+- bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6834/marktverwaltung-murnau-am-staffelsee/
   href: https://www.murnau.de/
   init: B90/Die Grünen
@@ -406,8 +399,7 @@
   resident: 11453
   satzlink: https://www.murnau.de/media/files/satzungen/Satzung_Informationsfreiheit_2015.pdf
   start: 2012-09-01
-- bemerkung: null
-  bez: Oberbayern
+- bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/7048/stadtverwaltung-eichstatt/
   href: https://www.eichstaett.de/
   init: SPD
@@ -416,14 +408,12 @@
   resident: 13146
   satzlink: https://www.eichstaett.de/pdf/ortsrecht-satzungen/informationsfreiheitssatzung_1.pdf
   start: 2012-09-01
-- bemerkung: null
-  bez: Oberbayern
+- bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6835/bezirksverwaltung-oberbayern/
   href: https://www.bezirk-oberbayern.de/
   init: DIE LINKE
   name: Bezirk Oberbayern
   pos: none
-  resident: null
   satzlink: https://www.bezirk-oberbayern.de/media/custom/2378_434_1.PDF?1524820981
   start: 2012-10-01
 - bez: Oberbayern
@@ -462,7 +452,6 @@
   name: Feldkirchen-Westerham
   pos: 47.9, 11.85
   resident: 10387
-  satzlink: null
   start: 2013-01-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6787/stadtverwaltung-landsberg-am-lech/
@@ -517,7 +506,6 @@
   name: Freising
   pos: 48.4027, 11.7488
   resident: 45227
-  satzlink: null
   start: 2013-05-01
 - bemerkung: erneuert 2015-10-27
   bez: Oberbayern
@@ -571,7 +559,6 @@
   name: Eresing
   pos: 48.087, 11.024
   resident: 1733
-  satzlink: null
   start: 2014-05-06
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/6778/stadtverwaltung-wolfratshausen/
@@ -637,18 +624,12 @@
   resident: 131011
   satzlink: https://lra-ebe.de/dox/media.aspx?data=VYVm1SOjJ2pz0%2BX5DzMS1vku7jerVvLUagMhJrQ62YFX4bHOzw9r6p%2FocujABWI6Y%2F6BelytrkL5Sg7owh5Qdh2jOG3uWmWO
   start: 2015-01-01
-- bemerkung: null
-  bez: Niederbayern
+- bez: Niederbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/11220/bezirk-niederbayern/
   href: https://www.bezirk-niederbayern.de/
-  init: null
   name: Bezirk Niederbayern
-  pos: none
-  resident: null
-  satzlink: null
   start: 2014-11-08
-- bemerkung: null
-  bez: Oberpfalz
+- bez: Oberpfalz
   fragdenstaat_url: https://fragdenstaat.de/behoerde/7682/stadtverwaltung-burglengenfeld/
   href: https://www.burglengenfeld.de/startseite/
   init: CSU
@@ -657,8 +638,7 @@
   resident: 12433
   satzlink: https://www.burglengenfeld.de/fileadmin/Stadt_Burglengenfeld/Informationsfreiheitssatzung.pdf
   start: 2015-01-01
-- bemerkung: null
-  bez: Niederbayern
+- bez: Niederbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/20497/gemeinde-bodenmais-landkreis-regen-/
   href: https://www.bodenmais.de/buergerservice/
   init: SPD
@@ -674,7 +654,6 @@
   name: Inzell
   pos: 47.7625, 12.749166
   resident: 4527
-  satzlink: null
   start: 2015-04-01
 - bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/21042/gemeinde-weling-landkreis-starnberg-/
@@ -710,11 +689,9 @@
   resident: 76265
   satzlink: https://www.landkreis-regen.de/wp-content/uploads/2017/03/Amtsblatt-14-2015-1.pdf
   start: 2015-08-01
-- bemerkung: null
-  bez: Schwaben
+- bez: Schwaben
   fragdenstaat_url: https://fragdenstaat.de/behoerde/12878/stadt-weissenhorn/
   href: https://www.weissenhorn.de/
-  init: null
   name: Weißenhorn
   pos: 48.305, 10.160
   resident: 13442
@@ -760,8 +737,6 @@
   name: Landkreis Augsburg
   pos: 48.35, 10.73
   resident: 245600
-  satzlink: null
-  start: null
 - bez: Oberpfalz
   fragdenstaat_url: https://fragdenstaat.de/behoerde/19745/gemeinde-berg-bei-neumarkt-in-der-oberpfalz-landkreis-neumarkt-idopf-/
   href: https://berg-opf.de/
@@ -819,8 +794,7 @@
   resident: 4937
   satzlink: https://www.muehlhausen-sulz.de/assets/Uploads/Informationsfreiheitssatzung.pdf
   start: 2017-12-01
-- bemerkung: null
-  bez: Oberpfalz
+- bez: Oberpfalz
   fragdenstaat_url: https://fragdenstaat.de/behoerde/19735/stadt-neumarkt-in-der-oberpfalz-landkreis-neumarkt-idopf-/
   href: https://www.neumarkt.de/
   init: Bayerischer Journalisten Verband
@@ -829,8 +803,7 @@
   resident: 39573
   satzlink: https://www.neumarkt.de/media/1603/125_informationsfreiheitssatzung_23032018__pdf_.pdf
   start: 2018-04-01
-- bemerkung: null
-  bez: Oberbayern
+- bez: Oberbayern
   fragdenstaat_url: https://fragdenstaat.de/behoerde/11729/gemeinde-haimhausen-landkreis-dachau-/
   href: https://www.haimhausen.de/
   init: SPD
